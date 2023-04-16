@@ -1,0 +1,227 @@
+start decoding!!!
+./data/douyin_6821687069878865155.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6821687069878865155.mp4
+./data/douyin_6821722703318289668.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6821722703318289668.mp4
+./audio/douyin_6821722703318289668/a.wav
+MoviePy - Writing audio in ./audio/douyin_6821722703318289668/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6821722703318289668.mp4 ./audio/douyin_6821722703318289668
+[audio result] ./audio/douyin_6821722703318289668
+./data/douyin_6821776837266427144.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6821776837266427144.mp4
+./audio/douyin_6821776837266427144/a.wav
+MoviePy - Writing audio in ./audio/douyin_6821776837266427144/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6821776837266427144.mp4 ./audio/douyin_6821776837266427144
+[audio result] ./audio/douyin_6821776837266427144
+./data/douyin_6822119583529405710.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6822119583529405710.mp4
+./audio/douyin_6822119583529405710/a.wav
+MoviePy - Writing audio in ./audio/douyin_6822119583529405710/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6822119583529405710.mp4 ./audio/douyin_6822119583529405710
+[audio result] ./audio/douyin_6822119583529405710
+./data/douyin_6822146399438638348.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6822146399438638348.mp4
+./audio/douyin_6822146399438638348/a.wav
+MoviePy - Writing audio in ./audio/douyin_6822146399438638348/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6822146399438638348.mp4 ./audio/douyin_6822146399438638348
+[audio result] ./audio/douyin_6822146399438638348
+./data/douyin_6822822191986396431.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6822822191986396431.mp4
+./audio/douyin_6822822191986396431/a.wav
+MoviePy - Writing audio in ./audio/douyin_6822822191986396431/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6822822191986396431.mp4 ./audio/douyin_6822822191986396431
+[audio result] ./audio/douyin_6822822191986396431
+./data/douyin_6822849359667924227.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6822849359667924227.mp4
+./audio/douyin_6822849359667924227/a.wav
+MoviePy - Writing audio in ./audio/douyin_6822849359667924227/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6822849359667924227.mp4 ./audio/douyin_6822849359667924227
+[audio result] ./audio/douyin_6822849359667924227
+./data/douyin_6823363913669725448.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6823363913669725448.mp4
+./audio/douyin_6823363913669725448/a.wav
+MoviePy - Writing audio in ./audio/douyin_6823363913669725448/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6823363913669725448.mp4 ./audio/douyin_6823363913669725448
+[audio result] ./audio/douyin_6823363913669725448
+./data/douyin_6823672276060278028.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6823672276060278028.mp4
+./audio/douyin_6823672276060278028/a.wav
+MoviePy - Writing audio in ./audio/douyin_6823672276060278028/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6823672276060278028.mp4 ./audio/douyin_6823672276060278028
+[audio result] ./audio/douyin_6823672276060278028
+./data/douyin_6823900927192272141.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6823900927192272141.mp4
+./audio/douyin_6823900927192272141/a.wav
+MoviePy - Writing audio in ./audio/douyin_6823900927192272141/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6823900927192272141.mp4 ./audio/douyin_6823900927192272141
+[audio result] ./audio/douyin_6823900927192272141
+./data/douyin_6824006803018353923.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6824006803018353923.mp4
+./audio/douyin_6824006803018353923/a.wav
+MoviePy - Writing audio in ./audio/douyin_6824006803018353923/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6824006803018353923.mp4 ./audio/douyin_6824006803018353923
+[audio result] ./audio/douyin_6824006803018353923
+./data/douyin_6824249309484076303.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6824249309484076303.mp4
+./audio/douyin_6824249309484076303/a.wav
+MoviePy - Writing audio in ./audio/douyin_6824249309484076303/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6824249309484076303.mp4 ./audio/douyin_6824249309484076303
+[audio result] ./audio/douyin_6824249309484076303
+./data/douyin_6824273888134941966.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6824273888134941966.mp4
+./audio/douyin_6824273888134941966/a.wav
+MoviePy - Writing audio in ./audio/douyin_6824273888134941966/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6824273888134941966.mp4 ./audio/douyin_6824273888134941966
+[audio result] ./audio/douyin_6824273888134941966
+./data/douyin_6824298917363043588.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6824298917363043588.mp4
+./audio/douyin_6824298917363043588/a.wav
+MoviePy - Writing audio in ./audio/douyin_6824298917363043588/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6824298917363043588.mp4 ./audio/douyin_6824298917363043588
+[audio result] ./audio/douyin_6824298917363043588
+./data/douyin_6824303959415557387.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6824303959415557387.mp4
+./audio/douyin_6824303959415557387/a.wav
+MoviePy - Writing audio in ./audio/douyin_6824303959415557387/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6824303959415557387.mp4 ./audio/douyin_6824303959415557387
+[audio result] ./audio/douyin_6824303959415557387
+./data/douyin_6824314763397369101.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6824314763397369101.mp4
+./audio/douyin_6824314763397369101/a.wav
+MoviePy - Writing audio in ./audio/douyin_6824314763397369101/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6824314763397369101.mp4 ./audio/douyin_6824314763397369101
+[audio result] ./audio/douyin_6824314763397369101
+./data/douyin_6824447680635309325.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6824447680635309325.mp4
+./audio/douyin_6824447680635309325/a.wav
+MoviePy - Writing audio in ./audio/douyin_6824447680635309325/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6824447680635309325.mp4 ./audio/douyin_6824447680635309325
+[audio result] ./audio/douyin_6824447680635309325
+./data/douyin_6824456540989230344.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6824456540989230344.mp4
+./audio/douyin_6824456540989230344/a.wav
+MoviePy - Writing audio in ./audio/douyin_6824456540989230344/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6824456540989230344.mp4 ./audio/douyin_6824456540989230344
+[audio result] ./audio/douyin_6824456540989230344
+./data/douyin_6824457136597110027.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6824457136597110027.mp4
+./audio/douyin_6824457136597110027/a.wav
+MoviePy - Writing audio in ./audio/douyin_6824457136597110027/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6824457136597110027.mp4 ./audio/douyin_6824457136597110027
+[audio result] ./audio/douyin_6824457136597110027
+./data/douyin_6824515285085687048.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6824515285085687048.mp4
+./audio/douyin_6824515285085687048/a.wav
+MoviePy - Writing audio in ./audio/douyin_6824515285085687048/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6824515285085687048.mp4 ./audio/douyin_6824515285085687048
+[audio result] ./audio/douyin_6824515285085687048
+./data/douyin_6824693917791833347.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6824693917791833347.mp4
+./audio/douyin_6824693917791833347/a.wav
+MoviePy - Writing audio in ./audio/douyin_6824693917791833347/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6824693917791833347.mp4 ./audio/douyin_6824693917791833347
+[audio result] ./audio/douyin_6824693917791833347
+./data/douyin_6824790268290632968.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6824790268290632968.mp4
+./audio/douyin_6824790268290632968/a.wav
+MoviePy - Writing audio in ./audio/douyin_6824790268290632968/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6824790268290632968.mp4 ./audio/douyin_6824790268290632968
+[audio result] ./audio/douyin_6824790268290632968
+./data/douyin_6825418062817152270.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6825418062817152270.mp4
+./audio/douyin_6825418062817152270/a.wav
+MoviePy - Writing audio in ./audio/douyin_6825418062817152270/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6825418062817152270.mp4 ./audio/douyin_6825418062817152270
+[audio result] ./audio/douyin_6825418062817152270
+./data/douyin_6826597464448044301.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6826597464448044301.mp4
+./audio/douyin_6826597464448044301/a.wav
+MoviePy - Writing audio in ./audio/douyin_6826597464448044301/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6826597464448044301.mp4 ./audio/douyin_6826597464448044301
+[audio result] ./audio/douyin_6826597464448044301
+./data/douyin_6826634159990017291.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6826634159990017291.mp4
+./audio/douyin_6826634159990017291/a.wav
+MoviePy - Writing audio in ./audio/douyin_6826634159990017291/a.wav
+MoviePy - Done.
+[extract audio] ./videos/douyin_6826634159990017291.mp4 ./audio/douyin_6826634159990017291
+[audio result] ./audio/douyin_6826634159990017291
+./data/douyin_6826694516725124363.json
+[video_work] working
+[wav2text] working
+./videos/douyin_6826694516725124363.mp4
+./audio/douyin_6826694516725124363/a.wav
+MoviePy - Writing audio in ./audio/douyin_6826694516725124363/a.wav

@@ -1,0 +1,2970 @@
+start decoding!!!
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6582489910870019335.mp4 ./audio/douyin_6582489910870019335
+./videos/douyin_6582489910870019335.mp4
+./audio/douyin_6582489910870019335/a.wav
+MoviePy - Writing audio in ./audio/douyin_6582489910870019335/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6582489910870019335.mp4 ./audio/douyin_6582489910870019335
+[wav2text] working
+[wav_result] {'text': '我我怕。', 'text_postprocessed': '我 我 怕', 'time_stamp': [[9670, 9810], [9810, 9950], [9950, 10100]], 'sentences': [{'text': '我我怕.', 'start': 9670, 'end': 10100}]}
+[OCR working] ocr at frame 0
+./frame/douyin_6582489910870019335/0.jpg
+[OCR done] ocr at frame 0
+[OCR working] ocr at frame 15
+./frame/douyin_6582489910870019335/15.jpg
+[OCR done] ocr at frame 15
+[OCR working] ocr at frame 30
+./frame/douyin_6582489910870019335/30.jpg
+[OCR done] ocr at frame 30
+[OCR working] ocr at frame 45
+./frame/douyin_6582489910870019335/45.jpg
+[OCR done] ocr at frame 45
+[OCR working] ocr at frame 60
+./frame/douyin_6582489910870019335/60.jpg
+[OCR done] ocr at frame 60
+[OCR working] ocr at frame 75
+./frame/douyin_6582489910870019335/75.jpg
+[OCR done] ocr at frame 75
+[OCR working] ocr at frame 90
+./frame/douyin_6582489910870019335/90.jpg
+[OCR done] ocr at frame 90
+[OCR working] ocr at frame 105
+./frame/douyin_6582489910870019335/105.jpg
+[OCR done] ocr at frame 105
+[ERROR]fail douyin_6582489910870019335.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6588370236414627085.mp4 ./audio/douyin_6588370236414627085
+./videos/douyin_6588370236414627085.mp4
+./audio/douyin_6588370236414627085/a.wav
+MoviePy - Writing audio in ./audio/douyin_6588370236414627085/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6588370236414627085.mp4 ./audio/douyin_6588370236414627085
+[ERROR]fail douyin_6588370236414627085.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6594260302991199492.mp4 ./audio/douyin_6594260302991199492
+./videos/douyin_6594260302991199492.mp4
+./audio/douyin_6594260302991199492/a.wav
+MoviePy - Writing audio in ./audio/douyin_6594260302991199492/a.wav
+[ERROR]fail douyin_6594260302991199492.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6601363612395113732.mp4 ./audio/douyin_6601363612395113732
+./videos/douyin_6601363612395113732.mp4
+[ERROR]fail douyin_6601363612395113732.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6601552344368811268.mp4 ./audio/douyin_6601552344368811268
+./videos/douyin_6601552344368811268.mp4
+[ERROR]fail douyin_6601552344368811268.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6601690518281784579.mp4 ./audio/douyin_6601690518281784579
+./videos/douyin_6601690518281784579.mp4
+[ERROR]fail douyin_6601690518281784579.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6601743307074702599.mp4 ./audio/douyin_6601743307074702599
+./videos/douyin_6601743307074702599.mp4
+[ERROR]fail douyin_6601743307074702599.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6601803968425233671.mp4 ./audio/douyin_6601803968425233671
+./videos/douyin_6601803968425233671.mp4
+[ERROR]fail douyin_6601803968425233671.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6602092948031016196.mp4 ./audio/douyin_6602092948031016196
+./videos/douyin_6602092948031016196.mp4
+[ERROR]fail douyin_6602092948031016196.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6605897306417925389.mp4 ./audio/douyin_6605897306417925389
+./videos/douyin_6605897306417925389.mp4
+[ERROR]fail douyin_6605897306417925389.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6610821466466290958.mp4 ./audio/douyin_6610821466466290958
+./videos/douyin_6610821466466290958.mp4
+[ERROR]fail douyin_6610821466466290958.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6613318089943551240.mp4 ./audio/douyin_6613318089943551240
+./videos/douyin_6613318089943551240.mp4
+[ERROR]fail douyin_6613318089943551240.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6617393568547867908.mp4 ./audio/douyin_6617393568547867908
+./videos/douyin_6617393568547867908.mp4
+[ERROR]fail douyin_6617393568547867908.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6620647874076085511.mp4 ./audio/douyin_6620647874076085511
+./videos/douyin_6620647874076085511.mp4
+[ERROR]fail douyin_6620647874076085511.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6629232297071611139.mp4 ./audio/douyin_6629232297071611139
+./videos/douyin_6629232297071611139.mp4
+[ERROR]fail douyin_6629232297071611139.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6637728366650723592.mp4 ./audio/douyin_6637728366650723592
+./videos/douyin_6637728366650723592.mp4
+[ERROR]fail douyin_6637728366650723592.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6639931517634088200.mp4 ./audio/douyin_6639931517634088200
+./videos/douyin_6639931517634088200.mp4
+[ERROR]fail douyin_6639931517634088200.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6642214705265904899.mp4 ./audio/douyin_6642214705265904899
+./videos/douyin_6642214705265904899.mp4
+[ERROR]fail douyin_6642214705265904899.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6647411044501163268.mp4 ./audio/douyin_6647411044501163268
+./videos/douyin_6647411044501163268.mp4
+[ERROR]fail douyin_6647411044501163268.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6650290016838864142.mp4 ./audio/douyin_6650290016838864142
+./videos/douyin_6650290016838864142.mp4
+[ERROR]fail douyin_6650290016838864142.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6654921390925319436.mp4 ./audio/douyin_6654921390925319436
+./videos/douyin_6654921390925319436.mp4
+[ERROR]fail douyin_6654921390925319436.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6656727039187438861.mp4 ./audio/douyin_6656727039187438861
+./videos/douyin_6656727039187438861.mp4
+[ERROR]fail douyin_6656727039187438861.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6658850835998444804.mp4 ./audio/douyin_6658850835998444804
+./videos/douyin_6658850835998444804.mp4
+./audio/douyin_6658850835998444804/a.wav
+MoviePy - Writing audio in ./audio/douyin_6658850835998444804/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6658850835998444804.mp4 ./audio/douyin_6658850835998444804
+[wav2text] working
+[wav_result] {'text': '都有用啊，我看他上去吧，你们上去吧，我赶快快点，快点冲不行，不行不行不行。驾驶丰田越野车的小伙子一家三口应寻求一时的刺激，该车在冰面上的漂移。由于河面结冰较薄，有些冰面没有完全分冻，车体压碎了冰面落入水中。哥哥讲，这次损失比较大，车辆基本上就报废了。', 'text_postprocessed': '都 有 用 啊 我 看 他 上 去 吧 你 们 上 去 吧 我 赶 快 快 点 快 点 冲 不 行 不 行 不 行 不 行 驾 驶 丰 田 越 野 车 的 小 伙 子 一 家 三 口 应 寻 求 一 时 的 刺 激 该 车 在 冰 面 上 的 漂 移 由 于 河 面 结 冰 较 薄 有 些 冰 面 没 有 完 全 分 冻 车 体 压 碎 了 冰 面 落 入 水 中 哥 哥 讲 这 次 损 失 比 较 大 车 辆 基 本 上 就 报 废 了', 'time_stamp': [[660, 760], [760, 880], [880, 1100], [1100, 1240], [1240, 1339], [1339, 1420], [1420, 1500], [1500, 1600], [1600, 1700], [1700, 1779], [1779, 1859], [1859, 1940], [1940, 2040], [2040, 2120], [2120, 2200], [2200, 2320], [2320, 2420], [2420, 2659], [4700, 4780], [4780, 4859], [4859, 4939], [4939, 5020], [5020, 5195], [11590, 11690], [11690, 11770], [11770, 11850], [11850, 11930], [11930, 11990], [11990, 12070], [12070, 12149], [12149, 12344], [15390, 15550], [15550, 15670], [15670, 15830], [15830, 15970], [15970, 16070], [16070, 16190], [16190, 16309], [16309, 16450], [16450, 16610], [16610, 16730], [16730, 16870], [16870, 16970], [16970, 17110], [17110, 17210], [17210, 17450], [17550, 17750], [17750, 17850], [17850, 18050], [18050, 18150], [18150, 18270], [18270, 18410], [18410, 18570], [18570, 18810], [18890, 18990], [18990, 19170], [19170, 19350], [19350, 19470], [19470, 19590], [19590, 19710], [19710, 19850], [19850, 20009], [20009, 20230], [20230, 20350], [20350, 20550], [20550, 20710], [20710, 20950], [20970, 21070], [21070, 21210], [21210, 21310], [21310, 21550], [21730, 21850], [21850, 22050], [22050, 22150], [22150, 22390], [22390, 22470], [22470, 22570], [22570, 22670], [22670, 22870], [22870, 23030], [23030, 23270], [23350, 23509], [23509, 23710], [23710, 23810], [23810, 23930], [23930, 24110], [24110, 24230], [24230, 24430], [24430, 24590], [24590, 24730], [24730, 24830], [24830, 25215], [28570, 28650], [28650, 28830], [28830, 29030], [29030, 29130], [29130, 29230], [29230, 29350], [29350, 29490], [29490, 29590], [29590, 29710], [29710, 29950], [30030, 30170], [30170, 30370], [30370, 30470], [30470, 30590], [30590, 30690], [30690, 30870], [30870, 30990], [30990, 31110], [31110, 31285]], 'sentences': [{'text': '都有用啊,', 'start': 660, 'end': 1240}, {'text': '我看他上去吧,', 'start': 1240, 'end': 1779}, {'text': '你们上去吧,', 'start': 1779, 'end': 2200}, {'text': '我赶快快点,', 'start': 2200, 'end': 4859}, {'text': '快点冲不行,', 'start': 4859, 'end': 11770}, {'text': '不行不行不行.', 'start': 11770, 'end': 12344}, {'text': '驾驶丰田越野车的小伙子一家三口应寻求一时的刺激,', 'start': 12344, 'end': 18810}, {'text': '该车在冰面上的漂移.', 'start': 18810, 'end': 20230}, {'text': '由于河面结冰较薄,', 'start': 20230, 'end': 21550}, {'text': '有些冰面没有完全分冻,', 'start': 21550, 'end': 23270}, {'text': '车体压碎了冰面落入水中.', 'start': 23270, 'end': 25215}, {'text': '哥哥讲,', 'start': 25215, 'end': 29030}, {'text': '这次损失比较大,', 'start': 29030, 'end': 29950}, {'text': '车辆基本上就报废了.', 'start': 29950, 'end': 31285}]}
+[OCR working] ocr at frame 0
+./frame/douyin_6658850835998444804/0.jpg
+[OCR done] ocr at frame 0
+[OCR working] ocr at frame 15
+./frame/douyin_6658850835998444804/15.jpg
+[OCR done] ocr at frame 15
+[OCR working] ocr at frame 30
+./frame/douyin_6658850835998444804/30.jpg
+[OCR done] ocr at frame 30
+[OCR working] ocr at frame 45
+./frame/douyin_6658850835998444804/45.jpg
+[OCR done] ocr at frame 45
+[OCR working] ocr at frame 60
+./frame/douyin_6658850835998444804/60.jpg
+[OCR done] ocr at frame 60
+[OCR working] ocr at frame 75
+./frame/douyin_6658850835998444804/75.jpg
+[OCR done] ocr at frame 75
+[OCR working] ocr at frame 90
+./frame/douyin_6658850835998444804/90.jpg
+[OCR done] ocr at frame 90
+[OCR working] ocr at frame 105
+./frame/douyin_6658850835998444804/105.jpg
+[OCR done] ocr at frame 105
+[OCR working] ocr at frame 120
+./frame/douyin_6658850835998444804/120.jpg
+[OCR done] ocr at frame 120
+[OCR working] ocr at frame 135
+./frame/douyin_6658850835998444804/135.jpg
+[OCR done] ocr at frame 135
+[OCR working] ocr at frame 150
+./frame/douyin_6658850835998444804/150.jpg
+[OCR done] ocr at frame 150
+[OCR working] ocr at frame 165
+./frame/douyin_6658850835998444804/165.jpg
+[OCR done] ocr at frame 165
+[OCR working] ocr at frame 180
+./frame/douyin_6658850835998444804/180.jpg
+[OCR done] ocr at frame 180
+[OCR working] ocr at frame 195
+./frame/douyin_6658850835998444804/195.jpg
+[OCR done] ocr at frame 195
+continue 210
+[OCR working] ocr at frame 225
+./frame/douyin_6658850835998444804/225.jpg
+[OCR done] ocr at frame 225
+[OCR working] ocr at frame 240
+./frame/douyin_6658850835998444804/240.jpg
+[OCR done] ocr at frame 240
+[OCR working] ocr at frame 255
+./frame/douyin_6658850835998444804/255.jpg
+[OCR done] ocr at frame 255
+[OCR working] ocr at frame 270
+./frame/douyin_6658850835998444804/270.jpg
+[OCR done] ocr at frame 270
+[OCR working] ocr at frame 285
+./frame/douyin_6658850835998444804/285.jpg
+[OCR done] ocr at frame 285
+[OCR working] ocr at frame 300
+./frame/douyin_6658850835998444804/300.jpg
+[OCR done] ocr at frame 300
+[OCR working] ocr at frame 315
+./frame/douyin_6658850835998444804/315.jpg
+[OCR done] ocr at frame 315
+[OCR working] ocr at frame 330
+./frame/douyin_6658850835998444804/330.jpg
+[OCR done] ocr at frame 330
+[OCR working] ocr at frame 345
+./frame/douyin_6658850835998444804/345.jpg
+[OCR done] ocr at frame 345
+continue 360
+[OCR working] ocr at frame 375
+./frame/douyin_6658850835998444804/375.jpg
+[OCR done] ocr at frame 375
+[OCR working] ocr at frame 390
+./frame/douyin_6658850835998444804/390.jpg
+[OCR done] ocr at frame 390
+[OCR working] ocr at frame 405
+./frame/douyin_6658850835998444804/405.jpg
+[OCR done] ocr at frame 405
+[OCR working] ocr at frame 420
+./frame/douyin_6658850835998444804/420.jpg
+[OCR done] ocr at frame 420
+[OCR working] ocr at frame 435
+./frame/douyin_6658850835998444804/435.jpg
+[OCR done] ocr at frame 435
+[OCR working] ocr at frame 450
+./frame/douyin_6658850835998444804/450.jpg
+[OCR done] ocr at frame 450
+[OCR working] ocr at frame 465
+./frame/douyin_6658850835998444804/465.jpg
+[OCR done] ocr at frame 465
+[OCR working] ocr at frame 480
+./frame/douyin_6658850835998444804/480.jpg
+[OCR done] ocr at frame 480
+[OCR working] ocr at frame 495
+./frame/douyin_6658850835998444804/495.jpg
+[OCR done] ocr at frame 495
+continue 510
+continue 525
+[OCR working] ocr at frame 540
+./frame/douyin_6658850835998444804/540.jpg
+[OCR done] ocr at frame 540
+[ERROR]fail douyin_6658850835998444804.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6659729914352176395.mp4 ./audio/douyin_6659729914352176395
+./videos/douyin_6659729914352176395.mp4
+[ERROR]fail douyin_6659729914352176395.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6660797234772266243.mp4 ./audio/douyin_6660797234772266243
+./videos/douyin_6660797234772266243.mp4
+[ERROR]fail douyin_6660797234772266243.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6661968458898607368.mp4 ./audio/douyin_6661968458898607368
+./videos/douyin_6661968458898607368.mp4
+[ERROR]fail douyin_6661968458898607368.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6669681666606337291.mp4 ./audio/douyin_6669681666606337291
+./videos/douyin_6669681666606337291.mp4
+[ERROR]fail douyin_6669681666606337291.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6670406765903023372.mp4 ./audio/douyin_6670406765903023372
+./videos/douyin_6670406765903023372.mp4
+[ERROR]fail douyin_6670406765903023372.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6670707542898789646.mp4 ./audio/douyin_6670707542898789646
+./videos/douyin_6670707542898789646.mp4
+[ERROR]fail douyin_6670707542898789646.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6671891732524829965.mp4 ./audio/douyin_6671891732524829965
+./videos/douyin_6671891732524829965.mp4
+[ERROR]fail douyin_6671891732524829965.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6672607427034107144.mp4 ./audio/douyin_6672607427034107144
+./videos/douyin_6672607427034107144.mp4
+[ERROR]fail douyin_6672607427034107144.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6680479610414664974.mp4 ./audio/douyin_6680479610414664974
+./videos/douyin_6680479610414664974.mp4
+[ERROR]fail douyin_6680479610414664974.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6680495441294920964.mp4 ./audio/douyin_6680495441294920964
+./videos/douyin_6680495441294920964.mp4
+[ERROR]fail douyin_6680495441294920964.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6683804664594517251.mp4 ./audio/douyin_6683804664594517251
+./videos/douyin_6683804664594517251.mp4
+[ERROR]fail douyin_6683804664594517251.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6684247203738930443.mp4 ./audio/douyin_6684247203738930443
+./videos/douyin_6684247203738930443.mp4
+[ERROR]fail douyin_6684247203738930443.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6685578903391620363.mp4 ./audio/douyin_6685578903391620363
+./videos/douyin_6685578903391620363.mp4
+[ERROR]fail douyin_6685578903391620363.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6686810669221825795.mp4 ./audio/douyin_6686810669221825795
+./videos/douyin_6686810669221825795.mp4
+[ERROR]fail douyin_6686810669221825795.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6687415441695984900.mp4 ./audio/douyin_6687415441695984900
+./videos/douyin_6687415441695984900.mp4
+[ERROR]fail douyin_6687415441695984900.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6690045890444446988.mp4 ./audio/douyin_6690045890444446988
+./videos/douyin_6690045890444446988.mp4
+[ERROR]fail douyin_6690045890444446988.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6691461631374888195.mp4 ./audio/douyin_6691461631374888195
+./videos/douyin_6691461631374888195.mp4
+[ERROR]fail douyin_6691461631374888195.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6692975444850986251.mp4 ./audio/douyin_6692975444850986251
+./videos/douyin_6692975444850986251.mp4
+[ERROR]fail douyin_6692975444850986251.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6694947747214265608.mp4 ./audio/douyin_6694947747214265608
+./videos/douyin_6694947747214265608.mp4
+[ERROR]fail douyin_6694947747214265608.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6700401364331154696.mp4 ./audio/douyin_6700401364331154696
+./videos/douyin_6700401364331154696.mp4
+[ERROR]fail douyin_6700401364331154696.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6701187302170823949.mp4 ./audio/douyin_6701187302170823949
+./videos/douyin_6701187302170823949.mp4
+[ERROR]fail douyin_6701187302170823949.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6703372956191493383.mp4 ./audio/douyin_6703372956191493383
+./videos/douyin_6703372956191493383.mp4
+[ERROR]fail douyin_6703372956191493383.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6706303784215121164.mp4 ./audio/douyin_6706303784215121164
+./videos/douyin_6706303784215121164.mp4
+[ERROR]fail douyin_6706303784215121164.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6706693656956374276.mp4 ./audio/douyin_6706693656956374276
+./videos/douyin_6706693656956374276.mp4
+[ERROR]fail douyin_6706693656956374276.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6706733840070659336.mp4 ./audio/douyin_6706733840070659336
+./videos/douyin_6706733840070659336.mp4
+[ERROR]fail douyin_6706733840070659336.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6707587902336978189.mp4 ./audio/douyin_6707587902336978189
+./videos/douyin_6707587902336978189.mp4
+[ERROR]fail douyin_6707587902336978189.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6709066288955690247.mp4 ./audio/douyin_6709066288955690247
+./videos/douyin_6709066288955690247.mp4
+[ERROR]fail douyin_6709066288955690247.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6711673130307423499.mp4 ./audio/douyin_6711673130307423499
+./videos/douyin_6711673130307423499.mp4
+[ERROR]fail douyin_6711673130307423499.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6713699438918962440.mp4 ./audio/douyin_6713699438918962440
+./videos/douyin_6713699438918962440.mp4
+[ERROR]fail douyin_6713699438918962440.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6715018056688536844.mp4 ./audio/douyin_6715018056688536844
+./videos/douyin_6715018056688536844.mp4
+[ERROR]fail douyin_6715018056688536844.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6716849310362848523.mp4 ./audio/douyin_6716849310362848523
+./videos/douyin_6716849310362848523.mp4
+[ERROR]fail douyin_6716849310362848523.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6717960933538270477.mp4 ./audio/douyin_6717960933538270477
+./videos/douyin_6717960933538270477.mp4
+[ERROR]fail douyin_6717960933538270477.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6720202003189894407.mp4 ./audio/douyin_6720202003189894407
+./videos/douyin_6720202003189894407.mp4
+[ERROR]fail douyin_6720202003189894407.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6722438557987851523.mp4 ./audio/douyin_6722438557987851523
+./videos/douyin_6722438557987851523.mp4
+[ERROR]fail douyin_6722438557987851523.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6723112787112971523.mp4 ./audio/douyin_6723112787112971523
+./videos/douyin_6723112787112971523.mp4
+[ERROR]fail douyin_6723112787112971523.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6723476827882425608.mp4 ./audio/douyin_6723476827882425608
+./videos/douyin_6723476827882425608.mp4
+[ERROR]fail douyin_6723476827882425608.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6723527309363662083.mp4 ./audio/douyin_6723527309363662083
+./videos/douyin_6723527309363662083.mp4
+[ERROR]fail douyin_6723527309363662083.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6723788368792014091.mp4 ./audio/douyin_6723788368792014091
+./videos/douyin_6723788368792014091.mp4
+[ERROR]fail douyin_6723788368792014091.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6723878732349721868.mp4 ./audio/douyin_6723878732349721868
+./videos/douyin_6723878732349721868.mp4
+[ERROR]fail douyin_6723878732349721868.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6724118889342455048.mp4 ./audio/douyin_6724118889342455048
+./videos/douyin_6724118889342455048.mp4
+[ERROR]fail douyin_6724118889342455048.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6729372447902043405.mp4 ./audio/douyin_6729372447902043405
+./videos/douyin_6729372447902043405.mp4
+[ERROR]fail douyin_6729372447902043405.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6729863166571908359.mp4 ./audio/douyin_6729863166571908359
+./videos/douyin_6729863166571908359.mp4
+[ERROR]fail douyin_6729863166571908359.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6730434516105661700.mp4 ./audio/douyin_6730434516105661700
+./videos/douyin_6730434516105661700.mp4
+[ERROR]fail douyin_6730434516105661700.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6732011912634125575.mp4 ./audio/douyin_6732011912634125575
+./videos/douyin_6732011912634125575.mp4
+[ERROR]fail douyin_6732011912634125575.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6732370114181598477.mp4 ./audio/douyin_6732370114181598477
+./videos/douyin_6732370114181598477.mp4
+[ERROR]fail douyin_6732370114181598477.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6735318039601958152.mp4 ./audio/douyin_6735318039601958152
+./videos/douyin_6735318039601958152.mp4
+[ERROR]fail douyin_6735318039601958152.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6736737150169042183.mp4 ./audio/douyin_6736737150169042183
+./videos/douyin_6736737150169042183.mp4
+[ERROR]fail douyin_6736737150169042183.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6737534985860893965.mp4 ./audio/douyin_6737534985860893965
+./videos/douyin_6737534985860893965.mp4
+[ERROR]fail douyin_6737534985860893965.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6737856627552161037.mp4 ./audio/douyin_6737856627552161037
+./videos/douyin_6737856627552161037.mp4
+./audio/douyin_6737856627552161037/a.wav
+MoviePy - Writing audio in ./audio/douyin_6737856627552161037/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6737856627552161037.mp4 ./audio/douyin_6737856627552161037
+[ERROR]fail douyin_6737856627552161037.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6740095929317133582.mp4 ./audio/douyin_6740095929317133582
+./videos/douyin_6740095929317133582.mp4
+./audio/douyin_6740095929317133582/a.wav
+MoviePy - Writing audio in ./audio/douyin_6740095929317133582/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6740095929317133582.mp4 ./audio/douyin_6740095929317133582
+[ERROR]fail douyin_6740095929317133582.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6741328466110631181.mp4 ./audio/douyin_6741328466110631181
+./videos/douyin_6741328466110631181.mp4
+[ERROR]fail douyin_6741328466110631181.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6746398138585615623.mp4 ./audio/douyin_6746398138585615623
+./videos/douyin_6746398138585615623.mp4
+[ERROR]fail douyin_6746398138585615623.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6746471793915170055.mp4 ./audio/douyin_6746471793915170055
+./videos/douyin_6746471793915170055.mp4
+[ERROR]fail douyin_6746471793915170055.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6746904276045417740.mp4 ./audio/douyin_6746904276045417740
+./videos/douyin_6746904276045417740.mp4
+[ERROR]fail douyin_6746904276045417740.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6747622732969643275.mp4 ./audio/douyin_6747622732969643275
+./videos/douyin_6747622732969643275.mp4
+[ERROR]fail douyin_6747622732969643275.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6747974213874814220.mp4 ./audio/douyin_6747974213874814220
+./videos/douyin_6747974213874814220.mp4
+[ERROR]fail douyin_6747974213874814220.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6749276397937757453.mp4 ./audio/douyin_6749276397937757453
+./videos/douyin_6749276397937757453.mp4
+[ERROR]fail douyin_6749276397937757453.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6749751267607727373.mp4 ./audio/douyin_6749751267607727373
+./videos/douyin_6749751267607727373.mp4
+[ERROR]fail douyin_6749751267607727373.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6751580201026620686.mp4 ./audio/douyin_6751580201026620686
+./videos/douyin_6751580201026620686.mp4
+[ERROR]fail douyin_6751580201026620686.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6752500200847265027.mp4 ./audio/douyin_6752500200847265027
+./videos/douyin_6752500200847265027.mp4
+[ERROR]fail douyin_6752500200847265027.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6752769472836259084.mp4 ./audio/douyin_6752769472836259084
+./videos/douyin_6752769472836259084.mp4
+[ERROR]fail douyin_6752769472836259084.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6752823620881501452.mp4 ./audio/douyin_6752823620881501452
+./videos/douyin_6752823620881501452.mp4
+[ERROR]fail douyin_6752823620881501452.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6753893273120623886.mp4 ./audio/douyin_6753893273120623886
+./videos/douyin_6753893273120623886.mp4
+[ERROR]fail douyin_6753893273120623886.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6753977989278567683.mp4 ./audio/douyin_6753977989278567683
+./videos/douyin_6753977989278567683.mp4
+[ERROR]fail douyin_6753977989278567683.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6755405727952653580.mp4 ./audio/douyin_6755405727952653580
+./videos/douyin_6755405727952653580.mp4
+[ERROR]fail douyin_6755405727952653580.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6756500081135930637.mp4 ./audio/douyin_6756500081135930637
+./videos/douyin_6756500081135930637.mp4
+[ERROR]fail douyin_6756500081135930637.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6758599323153403147.mp4 ./audio/douyin_6758599323153403147
+./videos/douyin_6758599323153403147.mp4
+[ERROR]fail douyin_6758599323153403147.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6761524739673558285.mp4 ./audio/douyin_6761524739673558285
+./videos/douyin_6761524739673558285.mp4
+[ERROR]fail douyin_6761524739673558285.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6763184473241619719.mp4 ./audio/douyin_6763184473241619719
+./videos/douyin_6763184473241619719.mp4
+[ERROR]fail douyin_6763184473241619719.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6765480777158266115.mp4 ./audio/douyin_6765480777158266115
+./videos/douyin_6765480777158266115.mp4
+[ERROR]fail douyin_6765480777158266115.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6766217741016763660.mp4 ./audio/douyin_6766217741016763660
+./videos/douyin_6766217741016763660.mp4
+[ERROR]fail douyin_6766217741016763660.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6766228423317703940.mp4 ./audio/douyin_6766228423317703940
+./videos/douyin_6766228423317703940.mp4
+[ERROR]fail douyin_6766228423317703940.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6766370765701991687.mp4 ./audio/douyin_6766370765701991687
+./videos/douyin_6766370765701991687.mp4
+[ERROR]fail douyin_6766370765701991687.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6766399412500581636.mp4 ./audio/douyin_6766399412500581636
+./videos/douyin_6766399412500581636.mp4
+[ERROR]fail douyin_6766399412500581636.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6767485224801684747.mp4 ./audio/douyin_6767485224801684747
+./videos/douyin_6767485224801684747.mp4
+[ERROR]fail douyin_6767485224801684747.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6768748406232943879.mp4 ./audio/douyin_6768748406232943879
+./videos/douyin_6768748406232943879.mp4
+[ERROR]fail douyin_6768748406232943879.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6771036010101918987.mp4 ./audio/douyin_6771036010101918987
+./videos/douyin_6771036010101918987.mp4
+./audio/douyin_6771036010101918987/a.wav
+MoviePy - Writing audio in ./audio/douyin_6771036010101918987/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6771036010101918987.mp4 ./audio/douyin_6771036010101918987
+[ERROR]fail douyin_6771036010101918987.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6771223353316461832.mp4 ./audio/douyin_6771223353316461832
+./videos/douyin_6771223353316461832.mp4
+./audio/douyin_6771223353316461832/a.wav
+MoviePy - Writing audio in ./audio/douyin_6771223353316461832/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6771223353316461832.mp4 ./audio/douyin_6771223353316461832
+[ERROR]fail douyin_6771223353316461832.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6771602582063320334.mp4 ./audio/douyin_6771602582063320334
+./videos/douyin_6771602582063320334.mp4
+[ERROR]fail douyin_6771602582063320334.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6773597400549444877.mp4 ./audio/douyin_6773597400549444877
+./videos/douyin_6773597400549444877.mp4
+[ERROR]fail douyin_6773597400549444877.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6775010520979311886.mp4 ./audio/douyin_6775010520979311886
+./videos/douyin_6775010520979311886.mp4
+[ERROR]fail douyin_6775010520979311886.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6775437618655005965.mp4 ./audio/douyin_6775437618655005965
+./videos/douyin_6775437618655005965.mp4
+[ERROR]fail douyin_6775437618655005965.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6775705327359839488.mp4 ./audio/douyin_6775705327359839488
+./videos/douyin_6775705327359839488.mp4
+[ERROR]fail douyin_6775705327359839488.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6777377636827041038.mp4 ./audio/douyin_6777377636827041038
+./videos/douyin_6777377636827041038.mp4
+[ERROR]fail douyin_6777377636827041038.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6780264564631047438.mp4 ./audio/douyin_6780264564631047438
+./videos/douyin_6780264564631047438.mp4
+[ERROR]fail douyin_6780264564631047438.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6781727165240118531.mp4 ./audio/douyin_6781727165240118531
+./videos/douyin_6781727165240118531.mp4
+[ERROR]fail douyin_6781727165240118531.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6784181585978707204.mp4 ./audio/douyin_6784181585978707204
+./videos/douyin_6784181585978707204.mp4
+[ERROR]fail douyin_6784181585978707204.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6786598297932025092.mp4 ./audio/douyin_6786598297932025092
+./videos/douyin_6786598297932025092.mp4
+[ERROR]fail douyin_6786598297932025092.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6787009027634121984.mp4 ./audio/douyin_6787009027634121984
+./videos/douyin_6787009027634121984.mp4
+[ERROR]fail douyin_6787009027634121984.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6787249642703719691.mp4 ./audio/douyin_6787249642703719691
+./videos/douyin_6787249642703719691.mp4
+[ERROR]fail douyin_6787249642703719691.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6787387569265970440.mp4 ./audio/douyin_6787387569265970440
+./videos/douyin_6787387569265970440.mp4
+[ERROR]fail douyin_6787387569265970440.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6787602239155490051.mp4 ./audio/douyin_6787602239155490051
+./videos/douyin_6787602239155490051.mp4
+[ERROR]fail douyin_6787602239155490051.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6787662250317581581.mp4 ./audio/douyin_6787662250317581581
+./videos/douyin_6787662250317581581.mp4
+[ERROR]fail douyin_6787662250317581581.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6787742879495228672.mp4 ./audio/douyin_6787742879495228672
+./videos/douyin_6787742879495228672.mp4
+[ERROR]fail douyin_6787742879495228672.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6788381071135329551.mp4 ./audio/douyin_6788381071135329551
+./videos/douyin_6788381071135329551.mp4
+[ERROR]fail douyin_6788381071135329551.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6789239936978652429.mp4 ./audio/douyin_6789239936978652429
+./videos/douyin_6789239936978652429.mp4
+[ERROR]fail douyin_6789239936978652429.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6789396303777467660.mp4 ./audio/douyin_6789396303777467660
+./videos/douyin_6789396303777467660.mp4
+[ERROR]fail douyin_6789396303777467660.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6789446985515601166.mp4 ./audio/douyin_6789446985515601166
+./videos/douyin_6789446985515601166.mp4
+[ERROR]fail douyin_6789446985515601166.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6789764070896585997.mp4 ./audio/douyin_6789764070896585997
+./videos/douyin_6789764070896585997.mp4
+[ERROR]fail douyin_6789764070896585997.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6789803250951474445.mp4 ./audio/douyin_6789803250951474445
+./videos/douyin_6789803250951474445.mp4
+[ERROR]fail douyin_6789803250951474445.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6789888904431471884.mp4 ./audio/douyin_6789888904431471884
+./videos/douyin_6789888904431471884.mp4
+[ERROR]fail douyin_6789888904431471884.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6789926310853496076.mp4 ./audio/douyin_6789926310853496076
+./videos/douyin_6789926310853496076.mp4
+[ERROR]fail douyin_6789926310853496076.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6790158463046601992.mp4 ./audio/douyin_6790158463046601992
+./videos/douyin_6790158463046601992.mp4
+[ERROR]fail douyin_6790158463046601992.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6790306029520358671.mp4 ./audio/douyin_6790306029520358671
+./videos/douyin_6790306029520358671.mp4
+[ERROR]fail douyin_6790306029520358671.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6790698483734039823.mp4 ./audio/douyin_6790698483734039823
+./videos/douyin_6790698483734039823.mp4
+[ERROR]fail douyin_6790698483734039823.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6790920932694281487.mp4 ./audio/douyin_6790920932694281487
+./videos/douyin_6790920932694281487.mp4
+[ERROR]fail douyin_6790920932694281487.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6790987860217482504.mp4 ./audio/douyin_6790987860217482504
+./videos/douyin_6790987860217482504.mp4
+[ERROR]fail douyin_6790987860217482504.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6791042788709469448.mp4 ./audio/douyin_6791042788709469448
+./videos/douyin_6791042788709469448.mp4
+[ERROR]fail douyin_6791042788709469448.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6791347567276854543.mp4 ./audio/douyin_6791347567276854543
+./videos/douyin_6791347567276854543.mp4
+[ERROR]fail douyin_6791347567276854543.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6791785443517140232.mp4 ./audio/douyin_6791785443517140232
+./videos/douyin_6791785443517140232.mp4
+[ERROR]fail douyin_6791785443517140232.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6791839171230174475.mp4 ./audio/douyin_6791839171230174475
+./videos/douyin_6791839171230174475.mp4
+[ERROR]fail douyin_6791839171230174475.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6792033909237435652.mp4 ./audio/douyin_6792033909237435652
+./videos/douyin_6792033909237435652.mp4
+[ERROR]fail douyin_6792033909237435652.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6792105846483602701.mp4 ./audio/douyin_6792105846483602701
+./videos/douyin_6792105846483602701.mp4
+[ERROR]fail douyin_6792105846483602701.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6792147220427803911.mp4 ./audio/douyin_6792147220427803911
+./videos/douyin_6792147220427803911.mp4
+[ERROR]fail douyin_6792147220427803911.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6792402142960323854.mp4 ./audio/douyin_6792402142960323854
+./videos/douyin_6792402142960323854.mp4
+[ERROR]fail douyin_6792402142960323854.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6792710074407062784.mp4 ./audio/douyin_6792710074407062784
+./videos/douyin_6792710074407062784.mp4
+[ERROR]fail douyin_6792710074407062784.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6792897401788091660.mp4 ./audio/douyin_6792897401788091660
+./videos/douyin_6792897401788091660.mp4
+./audio/douyin_6792897401788091660/a.wav
+MoviePy - Writing audio in ./audio/douyin_6792897401788091660/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6792897401788091660.mp4 ./audio/douyin_6792897401788091660
+[ERROR]fail douyin_6792897401788091660.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6793099198360341764.mp4 ./audio/douyin_6793099198360341764
+./videos/douyin_6793099198360341764.mp4
+./audio/douyin_6793099198360341764/a.wav
+MoviePy - Writing audio in ./audio/douyin_6793099198360341764/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6793099198360341764.mp4 ./audio/douyin_6793099198360341764
+[ERROR]fail douyin_6793099198360341764.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6793581515826646287.mp4 ./audio/douyin_6793581515826646287
+./videos/douyin_6793581515826646287.mp4
+[ERROR]fail douyin_6793581515826646287.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6794816030641327363.mp4 ./audio/douyin_6794816030641327363
+./videos/douyin_6794816030641327363.mp4
+[ERROR]fail douyin_6794816030641327363.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6795165747568987406.mp4 ./audio/douyin_6795165747568987406
+./videos/douyin_6795165747568987406.mp4
+[ERROR]fail douyin_6795165747568987406.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6795769343574674695.mp4 ./audio/douyin_6795769343574674695
+./videos/douyin_6795769343574674695.mp4
+[ERROR]fail douyin_6795769343574674695.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6795843422155558144.mp4 ./audio/douyin_6795843422155558144
+./videos/douyin_6795843422155558144.mp4
+[ERROR]fail douyin_6795843422155558144.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6796086977654557960.mp4 ./audio/douyin_6796086977654557960
+./videos/douyin_6796086977654557960.mp4
+[ERROR]fail douyin_6796086977654557960.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6796269202954095876.mp4 ./audio/douyin_6796269202954095876
+./videos/douyin_6796269202954095876.mp4
+[ERROR]fail douyin_6796269202954095876.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6796850990931922190.mp4 ./audio/douyin_6796850990931922190
+./videos/douyin_6796850990931922190.mp4
+[ERROR]fail douyin_6796850990931922190.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6796917456901246211.mp4 ./audio/douyin_6796917456901246211
+./videos/douyin_6796917456901246211.mp4
+[ERROR]fail douyin_6796917456901246211.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6797017288722648335.mp4 ./audio/douyin_6797017288722648335
+./videos/douyin_6797017288722648335.mp4
+[ERROR]fail douyin_6797017288722648335.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6797265622339177728.mp4 ./audio/douyin_6797265622339177728
+./videos/douyin_6797265622339177728.mp4
+[ERROR]fail douyin_6797265622339177728.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6797317471222222088.mp4 ./audio/douyin_6797317471222222088
+./videos/douyin_6797317471222222088.mp4
+[ERROR]fail douyin_6797317471222222088.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6797377024152423680.mp4 ./audio/douyin_6797377024152423680
+./videos/douyin_6797377024152423680.mp4
+[ERROR]fail douyin_6797377024152423680.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6797589588337528078.mp4 ./audio/douyin_6797589588337528078
+./videos/douyin_6797589588337528078.mp4
+[ERROR]fail douyin_6797589588337528078.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6797670636266212615.mp4 ./audio/douyin_6797670636266212615
+./videos/douyin_6797670636266212615.mp4
+[ERROR]fail douyin_6797670636266212615.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6797925040911305987.mp4 ./audio/douyin_6797925040911305987
+./videos/douyin_6797925040911305987.mp4
+[ERROR]fail douyin_6797925040911305987.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6797946717984525576.mp4 ./audio/douyin_6797946717984525576
+./videos/douyin_6797946717984525576.mp4
+[ERROR]fail douyin_6797946717984525576.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6797977154782006542.mp4 ./audio/douyin_6797977154782006542
+./videos/douyin_6797977154782006542.mp4
+[ERROR]fail douyin_6797977154782006542.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6798063003444055311.mp4 ./audio/douyin_6798063003444055311
+./videos/douyin_6798063003444055311.mp4
+[ERROR]fail douyin_6798063003444055311.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6798515331057913103.mp4 ./audio/douyin_6798515331057913103
+./videos/douyin_6798515331057913103.mp4
+[ERROR]fail douyin_6798515331057913103.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6798700787246583040.mp4 ./audio/douyin_6798700787246583040
+./videos/douyin_6798700787246583040.mp4
+[ERROR]fail douyin_6798700787246583040.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6798791300012313869.mp4 ./audio/douyin_6798791300012313869
+./videos/douyin_6798791300012313869.mp4
+[ERROR]fail douyin_6798791300012313869.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6798897058364329229.mp4 ./audio/douyin_6798897058364329229
+./videos/douyin_6798897058364329229.mp4
+[ERROR]fail douyin_6798897058364329229.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6799062729790459151.mp4 ./audio/douyin_6799062729790459151
+./videos/douyin_6799062729790459151.mp4
+[ERROR]fail douyin_6799062729790459151.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6799128458241920256.mp4 ./audio/douyin_6799128458241920256
+./videos/douyin_6799128458241920256.mp4
+[ERROR]fail douyin_6799128458241920256.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6799192188782742795.mp4 ./audio/douyin_6799192188782742795
+./videos/douyin_6799192188782742795.mp4
+[ERROR]fail douyin_6799192188782742795.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6799209008679947524.mp4 ./audio/douyin_6799209008679947524
+./videos/douyin_6799209008679947524.mp4
+[ERROR]fail douyin_6799209008679947524.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6799230700500356356.mp4 ./audio/douyin_6799230700500356356
+./videos/douyin_6799230700500356356.mp4
+[ERROR]fail douyin_6799230700500356356.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6799438229041958147.mp4 ./audio/douyin_6799438229041958147
+./videos/douyin_6799438229041958147.mp4
+[ERROR]fail douyin_6799438229041958147.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6799533163812048136.mp4 ./audio/douyin_6799533163812048136
+./videos/douyin_6799533163812048136.mp4
+[ERROR]fail douyin_6799533163812048136.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6799592807204949259.mp4 ./audio/douyin_6799592807204949259
+./videos/douyin_6799592807204949259.mp4
+[ERROR]fail douyin_6799592807204949259.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6799618679307898125.mp4 ./audio/douyin_6799618679307898125
+./videos/douyin_6799618679307898125.mp4
+[ERROR]fail douyin_6799618679307898125.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6799629050215222542.mp4 ./audio/douyin_6799629050215222542
+./videos/douyin_6799629050215222542.mp4
+[ERROR]fail douyin_6799629050215222542.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6799632132231728391.mp4 ./audio/douyin_6799632132231728391
+./videos/douyin_6799632132231728391.mp4
+[ERROR]fail douyin_6799632132231728391.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6799651993712413952.mp4 ./audio/douyin_6799651993712413952
+./videos/douyin_6799651993712413952.mp4
+[ERROR]fail douyin_6799651993712413952.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6799804611491302669.mp4 ./audio/douyin_6799804611491302669
+./videos/douyin_6799804611491302669.mp4
+[ERROR]fail douyin_6799804611491302669.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6799871964044397832.mp4 ./audio/douyin_6799871964044397832
+./videos/douyin_6799871964044397832.mp4
+[ERROR]fail douyin_6799871964044397832.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6800188418136493320.mp4 ./audio/douyin_6800188418136493320
+./videos/douyin_6800188418136493320.mp4
+[ERROR]fail douyin_6800188418136493320.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6800390134777842952.mp4 ./audio/douyin_6800390134777842952
+./videos/douyin_6800390134777842952.mp4
+[ERROR]fail douyin_6800390134777842952.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6800604345059511563.mp4 ./audio/douyin_6800604345059511563
+./videos/douyin_6800604345059511563.mp4
+[ERROR]fail douyin_6800604345059511563.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6801033814048099599.mp4 ./audio/douyin_6801033814048099599
+./videos/douyin_6801033814048099599.mp4
+[ERROR]fail douyin_6801033814048099599.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6802839353497242893.mp4 ./audio/douyin_6802839353497242893
+./videos/douyin_6802839353497242893.mp4
+[ERROR]fail douyin_6802839353497242893.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6803138853226990855.mp4 ./audio/douyin_6803138853226990855
+./videos/douyin_6803138853226990855.mp4
+[ERROR]fail douyin_6803138853226990855.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6803581739374595335.mp4 ./audio/douyin_6803581739374595335
+./videos/douyin_6803581739374595335.mp4
+[ERROR]fail douyin_6803581739374595335.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6803631659339009287.mp4 ./audio/douyin_6803631659339009287
+./videos/douyin_6803631659339009287.mp4
+[ERROR]fail douyin_6803631659339009287.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6803906422519237891.mp4 ./audio/douyin_6803906422519237891
+./videos/douyin_6803906422519237891.mp4
+[ERROR]fail douyin_6803906422519237891.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6804697484024139023.mp4 ./audio/douyin_6804697484024139023
+./videos/douyin_6804697484024139023.mp4
+[ERROR]fail douyin_6804697484024139023.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6804747267786935560.mp4 ./audio/douyin_6804747267786935560
+./videos/douyin_6804747267786935560.mp4
+[ERROR]fail douyin_6804747267786935560.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6804855347765873920.mp4 ./audio/douyin_6804855347765873920
+./videos/douyin_6804855347765873920.mp4
+[ERROR]fail douyin_6804855347765873920.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6805136344969415951.mp4 ./audio/douyin_6805136344969415951
+./videos/douyin_6805136344969415951.mp4
+[ERROR]fail douyin_6805136344969415951.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6805340083609144579.mp4 ./audio/douyin_6805340083609144579
+./videos/douyin_6805340083609144579.mp4
+[ERROR]fail douyin_6805340083609144579.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6805489808991931663.mp4 ./audio/douyin_6805489808991931663
+./videos/douyin_6805489808991931663.mp4
+[ERROR]fail douyin_6805489808991931663.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6805794994201332992.mp4 ./audio/douyin_6805794994201332992
+./videos/douyin_6805794994201332992.mp4
+[ERROR]fail douyin_6805794994201332992.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6805829872481504520.mp4 ./audio/douyin_6805829872481504520
+./videos/douyin_6805829872481504520.mp4
+[ERROR]fail douyin_6805829872481504520.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6805904789029817614.mp4 ./audio/douyin_6805904789029817614
+./videos/douyin_6805904789029817614.mp4
+[ERROR]fail douyin_6805904789029817614.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6806119699898699015.mp4 ./audio/douyin_6806119699898699015
+./videos/douyin_6806119699898699015.mp4
+[ERROR]fail douyin_6806119699898699015.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6806202016768019725.mp4 ./audio/douyin_6806202016768019725
+./videos/douyin_6806202016768019725.mp4
+[ERROR]fail douyin_6806202016768019725.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6806900594234854664.mp4 ./audio/douyin_6806900594234854664
+./videos/douyin_6806900594234854664.mp4
+[ERROR]fail douyin_6806900594234854664.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6806996372924009743.mp4 ./audio/douyin_6806996372924009743
+./videos/douyin_6806996372924009743.mp4
+[ERROR]fail douyin_6806996372924009743.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6807230416798354691.mp4 ./audio/douyin_6807230416798354691
+./videos/douyin_6807230416798354691.mp4
+[ERROR]fail douyin_6807230416798354691.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6807575619598142727.mp4 ./audio/douyin_6807575619598142727
+./videos/douyin_6807575619598142727.mp4
+[ERROR]fail douyin_6807575619598142727.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6807588716341742861.mp4 ./audio/douyin_6807588716341742861
+./videos/douyin_6807588716341742861.mp4
+[ERROR]fail douyin_6807588716341742861.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6807641056977390848.mp4 ./audio/douyin_6807641056977390848
+./videos/douyin_6807641056977390848.mp4
+[ERROR]fail douyin_6807641056977390848.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6807797641095810311.mp4 ./audio/douyin_6807797641095810311
+./videos/douyin_6807797641095810311.mp4
+[ERROR]fail douyin_6807797641095810311.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6807968631360687375.mp4 ./audio/douyin_6807968631360687375
+./videos/douyin_6807968631360687375.mp4
+[ERROR]fail douyin_6807968631360687375.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6808015877334650127.mp4 ./audio/douyin_6808015877334650127
+./videos/douyin_6808015877334650127.mp4
+[ERROR]fail douyin_6808015877334650127.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6808038875227770125.mp4 ./audio/douyin_6808038875227770125
+./videos/douyin_6808038875227770125.mp4
+[ERROR]fail douyin_6808038875227770125.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6808071882743483648.mp4 ./audio/douyin_6808071882743483648
+./videos/douyin_6808071882743483648.mp4
+[ERROR]fail douyin_6808071882743483648.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6808479201587383560.mp4 ./audio/douyin_6808479201587383560
+./videos/douyin_6808479201587383560.mp4
+[ERROR]fail douyin_6808479201587383560.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6808728377600511232.mp4 ./audio/douyin_6808728377600511232
+./videos/douyin_6808728377600511232.mp4
+[ERROR]fail douyin_6808728377600511232.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6809107490568015115.mp4 ./audio/douyin_6809107490568015115
+./videos/douyin_6809107490568015115.mp4
+[ERROR]fail douyin_6809107490568015115.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6809915709791931663.mp4 ./audio/douyin_6809915709791931663
+./videos/douyin_6809915709791931663.mp4
+[ERROR]fail douyin_6809915709791931663.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6810227456126094600.mp4 ./audio/douyin_6810227456126094600
+./videos/douyin_6810227456126094600.mp4
+[ERROR]fail douyin_6810227456126094600.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6810247544216620303.mp4 ./audio/douyin_6810247544216620303
+./videos/douyin_6810247544216620303.mp4
+[ERROR]fail douyin_6810247544216620303.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6810319473573219595.mp4 ./audio/douyin_6810319473573219595
+./videos/douyin_6810319473573219595.mp4
+[ERROR]fail douyin_6810319473573219595.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6810563817186036992.mp4 ./audio/douyin_6810563817186036992
+./videos/douyin_6810563817186036992.mp4
+[ERROR]fail douyin_6810563817186036992.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6810766098741480717.mp4 ./audio/douyin_6810766098741480717
+./videos/douyin_6810766098741480717.mp4
+[ERROR]fail douyin_6810766098741480717.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6810892086141783309.mp4 ./audio/douyin_6810892086141783309
+./videos/douyin_6810892086141783309.mp4
+./audio/douyin_6810892086141783309/a.wav
+MoviePy - Writing audio in ./audio/douyin_6810892086141783309/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6810892086141783309.mp4 ./audio/douyin_6810892086141783309
+[ERROR]fail douyin_6810892086141783309.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6811011407258094862.mp4 ./audio/douyin_6811011407258094862
+./videos/douyin_6811011407258094862.mp4
+./audio/douyin_6811011407258094862/a.wav
+MoviePy - Writing audio in ./audio/douyin_6811011407258094862/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6811011407258094862.mp4 ./audio/douyin_6811011407258094862
+[ERROR]fail douyin_6811011407258094862.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6811820983104638212.mp4 ./audio/douyin_6811820983104638212
+./videos/douyin_6811820983104638212.mp4
+[ERROR]fail douyin_6811820983104638212.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6812205450403073288.mp4 ./audio/douyin_6812205450403073288
+./videos/douyin_6812205450403073288.mp4
+[ERROR]fail douyin_6812205450403073288.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6813127019132423431.mp4 ./audio/douyin_6813127019132423431
+./videos/douyin_6813127019132423431.mp4
+[ERROR]fail douyin_6813127019132423431.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6813330207395630347.mp4 ./audio/douyin_6813330207395630347
+./videos/douyin_6813330207395630347.mp4
+[ERROR]fail douyin_6813330207395630347.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6813861282865859852.mp4 ./audio/douyin_6813861282865859852
+./videos/douyin_6813861282865859852.mp4
+[ERROR]fail douyin_6813861282865859852.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6813914791262883072.mp4 ./audio/douyin_6813914791262883072
+./videos/douyin_6813914791262883072.mp4
+[ERROR]fail douyin_6813914791262883072.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6813934868204948739.mp4 ./audio/douyin_6813934868204948739
+./videos/douyin_6813934868204948739.mp4
+[ERROR]fail douyin_6813934868204948739.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6813960385436142862.mp4 ./audio/douyin_6813960385436142862
+./videos/douyin_6813960385436142862.mp4
+[ERROR]fail douyin_6813960385436142862.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6814223358167649547.mp4 ./audio/douyin_6814223358167649547
+./videos/douyin_6814223358167649547.mp4
+[ERROR]fail douyin_6814223358167649547.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6814314607973354756.mp4 ./audio/douyin_6814314607973354756
+./videos/douyin_6814314607973354756.mp4
+[ERROR]fail douyin_6814314607973354756.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6814409751523233035.mp4 ./audio/douyin_6814409751523233035
+./videos/douyin_6814409751523233035.mp4
+[ERROR]fail douyin_6814409751523233035.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6814662807104130312.mp4 ./audio/douyin_6814662807104130312
+./videos/douyin_6814662807104130312.mp4
+[ERROR]fail douyin_6814662807104130312.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6814828317355642119.mp4 ./audio/douyin_6814828317355642119
+./videos/douyin_6814828317355642119.mp4
+[ERROR]fail douyin_6814828317355642119.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6815059537582755072.mp4 ./audio/douyin_6815059537582755072
+./videos/douyin_6815059537582755072.mp4
+[ERROR]fail douyin_6815059537582755072.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6815151234698251523.mp4 ./audio/douyin_6815151234698251523
+./videos/douyin_6815151234698251523.mp4
+[ERROR]fail douyin_6815151234698251523.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6815399447917251852.mp4 ./audio/douyin_6815399447917251852
+./videos/douyin_6815399447917251852.mp4
+[ERROR]fail douyin_6815399447917251852.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6815550496695356685.mp4 ./audio/douyin_6815550496695356685
+./videos/douyin_6815550496695356685.mp4
+[ERROR]fail douyin_6815550496695356685.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6815759487308172552.mp4 ./audio/douyin_6815759487308172552
+./videos/douyin_6815759487308172552.mp4
+[ERROR]fail douyin_6815759487308172552.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6816484174967491851.mp4 ./audio/douyin_6816484174967491851
+./videos/douyin_6816484174967491851.mp4
+[ERROR]fail douyin_6816484174967491851.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6816625975036480771.mp4 ./audio/douyin_6816625975036480771
+./videos/douyin_6816625975036480771.mp4
+[ERROR]fail douyin_6816625975036480771.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6817453297524313357.mp4 ./audio/douyin_6817453297524313357
+./videos/douyin_6817453297524313357.mp4
+[ERROR]fail douyin_6817453297524313357.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6818172291185216771.mp4 ./audio/douyin_6818172291185216771
+./videos/douyin_6818172291185216771.mp4
+[ERROR]fail douyin_6818172291185216771.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6818178781300165899.mp4 ./audio/douyin_6818178781300165899
+./videos/douyin_6818178781300165899.mp4
+[ERROR]fail douyin_6818178781300165899.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6818189045835762957.mp4 ./audio/douyin_6818189045835762957
+./videos/douyin_6818189045835762957.mp4
+[ERROR]fail douyin_6818189045835762957.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6818254662957812996.mp4 ./audio/douyin_6818254662957812996
+./videos/douyin_6818254662957812996.mp4
+[ERROR]fail douyin_6818254662957812996.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6818719238392433924.mp4 ./audio/douyin_6818719238392433924
+./videos/douyin_6818719238392433924.mp4
+[ERROR]fail douyin_6818719238392433924.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6819121035665755392.mp4 ./audio/douyin_6819121035665755392
+./videos/douyin_6819121035665755392.mp4
+[ERROR]fail douyin_6819121035665755392.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6819209408438914317.mp4 ./audio/douyin_6819209408438914317
+./videos/douyin_6819209408438914317.mp4
+[ERROR]fail douyin_6819209408438914317.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6819470101025131783.mp4 ./audio/douyin_6819470101025131783
+./videos/douyin_6819470101025131783.mp4
+[ERROR]fail douyin_6819470101025131783.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6819870141019360512.mp4 ./audio/douyin_6819870141019360512
+./videos/douyin_6819870141019360512.mp4
+[ERROR]fail douyin_6819870141019360512.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6820230527493180684.mp4 ./audio/douyin_6820230527493180684
+./videos/douyin_6820230527493180684.mp4
+[ERROR]fail douyin_6820230527493180684.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6821045174345518351.mp4 ./audio/douyin_6821045174345518351
+./videos/douyin_6821045174345518351.mp4
+[ERROR]fail douyin_6821045174345518351.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6821462506544991496.mp4 ./audio/douyin_6821462506544991496
+./videos/douyin_6821462506544991496.mp4
+[ERROR]fail douyin_6821462506544991496.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6821722703318289668.mp4 ./audio/douyin_6821722703318289668
+./videos/douyin_6821722703318289668.mp4
+[ERROR]fail douyin_6821722703318289668.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6822146399438638348.mp4 ./audio/douyin_6822146399438638348
+./videos/douyin_6822146399438638348.mp4
+[ERROR]fail douyin_6822146399438638348.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6823363913669725448.mp4 ./audio/douyin_6823363913669725448
+./videos/douyin_6823363913669725448.mp4
+[ERROR]fail douyin_6823363913669725448.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6824006803018353923.mp4 ./audio/douyin_6824006803018353923
+./videos/douyin_6824006803018353923.mp4
+[ERROR]fail douyin_6824006803018353923.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6824298917363043588.mp4 ./audio/douyin_6824298917363043588
+./videos/douyin_6824298917363043588.mp4
+[ERROR]fail douyin_6824298917363043588.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6824447680635309325.mp4 ./audio/douyin_6824447680635309325
+./videos/douyin_6824447680635309325.mp4
+[ERROR]fail douyin_6824447680635309325.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6824515285085687048.mp4 ./audio/douyin_6824515285085687048
+./videos/douyin_6824515285085687048.mp4
+[ERROR]fail douyin_6824515285085687048.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6825418062817152270.mp4 ./audio/douyin_6825418062817152270
+./videos/douyin_6825418062817152270.mp4
+[ERROR]fail douyin_6825418062817152270.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6826694516725124363.mp4 ./audio/douyin_6826694516725124363
+./videos/douyin_6826694516725124363.mp4
+[ERROR]fail douyin_6826694516725124363.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6826987786642509056.mp4 ./audio/douyin_6826987786642509056
+./videos/douyin_6826987786642509056.mp4
+[ERROR]fail douyin_6826987786642509056.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6827436705751076110.mp4 ./audio/douyin_6827436705751076110
+./videos/douyin_6827436705751076110.mp4
+[ERROR]fail douyin_6827436705751076110.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6827719074328349956.mp4 ./audio/douyin_6827719074328349956
+./videos/douyin_6827719074328349956.mp4
+[ERROR]fail douyin_6827719074328349956.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6828312624011185423.mp4 ./audio/douyin_6828312624011185423
+./videos/douyin_6828312624011185423.mp4
+[ERROR]fail douyin_6828312624011185423.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6828955068306427150.mp4 ./audio/douyin_6828955068306427150
+./videos/douyin_6828955068306427150.mp4
+[ERROR]fail douyin_6828955068306427150.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6829225780535414024.mp4 ./audio/douyin_6829225780535414024
+./videos/douyin_6829225780535414024.mp4
+[ERROR]fail douyin_6829225780535414024.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6830756581827808523.mp4 ./audio/douyin_6830756581827808523
+./videos/douyin_6830756581827808523.mp4
+[ERROR]fail douyin_6830756581827808523.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6831126629700488451.mp4 ./audio/douyin_6831126629700488451
+./videos/douyin_6831126629700488451.mp4
+[ERROR]fail douyin_6831126629700488451.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6831818405503454471.mp4 ./audio/douyin_6831818405503454471
+./videos/douyin_6831818405503454471.mp4
+[ERROR]fail douyin_6831818405503454471.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6832185731620867335.mp4 ./audio/douyin_6832185731620867335
+./videos/douyin_6832185731620867335.mp4
+[ERROR]fail douyin_6832185731620867335.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6832803460727966976.mp4 ./audio/douyin_6832803460727966976
+./videos/douyin_6832803460727966976.mp4
+[ERROR]fail douyin_6832803460727966976.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6833250358454652167.mp4 ./audio/douyin_6833250358454652167
+./videos/douyin_6833250358454652167.mp4
+[ERROR]fail douyin_6833250358454652167.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6833522718025977092.mp4 ./audio/douyin_6833522718025977092
+./videos/douyin_6833522718025977092.mp4
+[ERROR]fail douyin_6833522718025977092.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6834090217914354956.mp4 ./audio/douyin_6834090217914354956
+./videos/douyin_6834090217914354956.mp4
+[ERROR]fail douyin_6834090217914354956.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6834678060604820744.mp4 ./audio/douyin_6834678060604820744
+./videos/douyin_6834678060604820744.mp4
+[ERROR]fail douyin_6834678060604820744.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6835438074969853195.mp4 ./audio/douyin_6835438074969853195
+./videos/douyin_6835438074969853195.mp4
+[ERROR]fail douyin_6835438074969853195.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6835822316132240651.mp4 ./audio/douyin_6835822316132240651
+./videos/douyin_6835822316132240651.mp4
+[ERROR]fail douyin_6835822316132240651.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6836172690861100303.mp4 ./audio/douyin_6836172690861100303
+./videos/douyin_6836172690861100303.mp4
+[ERROR]fail douyin_6836172690861100303.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6836181677300059392.mp4 ./audio/douyin_6836181677300059392
+./videos/douyin_6836181677300059392.mp4
+./audio/douyin_6836181677300059392/a.wav
+MoviePy - Writing audio in ./audio/douyin_6836181677300059392/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6836181677300059392.mp4 ./audio/douyin_6836181677300059392
+[ERROR]fail douyin_6836181677300059392.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6836184471495068936.mp4 ./audio/douyin_6836184471495068936
+./videos/douyin_6836184471495068936.mp4
+./audio/douyin_6836184471495068936/a.wav
+MoviePy - Writing audio in ./audio/douyin_6836184471495068936/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6836184471495068936.mp4 ./audio/douyin_6836184471495068936
+[ERROR]fail douyin_6836184471495068936.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6836201017860836621.mp4 ./audio/douyin_6836201017860836621
+./videos/douyin_6836201017860836621.mp4
+[ERROR]fail douyin_6836201017860836621.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6837016406660271371.mp4 ./audio/douyin_6837016406660271371
+./videos/douyin_6837016406660271371.mp4
+[ERROR]fail douyin_6837016406660271371.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6837109740330405133.mp4 ./audio/douyin_6837109740330405133
+./videos/douyin_6837109740330405133.mp4
+[ERROR]fail douyin_6837109740330405133.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6838058397108079887.mp4 ./audio/douyin_6838058397108079887
+./videos/douyin_6838058397108079887.mp4
+[ERROR]fail douyin_6838058397108079887.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6838123554500889867.mp4 ./audio/douyin_6838123554500889867
+./videos/douyin_6838123554500889867.mp4
+[ERROR]fail douyin_6838123554500889867.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6838420817282469120.mp4 ./audio/douyin_6838420817282469120
+./videos/douyin_6838420817282469120.mp4
+[ERROR]fail douyin_6838420817282469120.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6838517419460332813.mp4 ./audio/douyin_6838517419460332813
+./videos/douyin_6838517419460332813.mp4
+[ERROR]fail douyin_6838517419460332813.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6838725076267961608.mp4 ./audio/douyin_6838725076267961608
+./videos/douyin_6838725076267961608.mp4
+[ERROR]fail douyin_6838725076267961608.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6838792735034526991.mp4 ./audio/douyin_6838792735034526991
+./videos/douyin_6838792735034526991.mp4
+[ERROR]fail douyin_6838792735034526991.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6838841950683155725.mp4 ./audio/douyin_6838841950683155725
+./videos/douyin_6838841950683155725.mp4
+[ERROR]fail douyin_6838841950683155725.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6839197629331541262.mp4 ./audio/douyin_6839197629331541262
+./videos/douyin_6839197629331541262.mp4
+[ERROR]fail douyin_6839197629331541262.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6839432188866383118.mp4 ./audio/douyin_6839432188866383118
+./videos/douyin_6839432188866383118.mp4
+[ERROR]fail douyin_6839432188866383118.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6839616162435747087.mp4 ./audio/douyin_6839616162435747087
+./videos/douyin_6839616162435747087.mp4
+[ERROR]fail douyin_6839616162435747087.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6839905080167222528.mp4 ./audio/douyin_6839905080167222528
+./videos/douyin_6839905080167222528.mp4
+[ERROR]fail douyin_6839905080167222528.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6841119584163073284.mp4 ./audio/douyin_6841119584163073284
+./videos/douyin_6841119584163073284.mp4
+[ERROR]fail douyin_6841119584163073284.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6841480420991732992.mp4 ./audio/douyin_6841480420991732992
+./videos/douyin_6841480420991732992.mp4
+[ERROR]fail douyin_6841480420991732992.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6841737153366543629.mp4 ./audio/douyin_6841737153366543629
+./videos/douyin_6841737153366543629.mp4
+./audio/douyin_6841737153366543629/a.wav
+MoviePy - Writing audio in ./audio/douyin_6841737153366543629/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6841737153366543629.mp4 ./audio/douyin_6841737153366543629
+[ERROR]fail douyin_6841737153366543629.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6841814713282661645.mp4 ./audio/douyin_6841814713282661645
+./videos/douyin_6841814713282661645.mp4
+./audio/douyin_6841814713282661645/a.wav
+MoviePy - Writing audio in ./audio/douyin_6841814713282661645/a.wav
+[ERROR]fail douyin_6841814713282661645.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6842097049127718148.mp4 ./audio/douyin_6842097049127718148
+./videos/douyin_6842097049127718148.mp4
+[ERROR]fail douyin_6842097049127718148.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6842302496388517131.mp4 ./audio/douyin_6842302496388517131
+./videos/douyin_6842302496388517131.mp4
+[ERROR]fail douyin_6842302496388517131.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6843057578625273099.mp4 ./audio/douyin_6843057578625273099
+./videos/douyin_6843057578625273099.mp4
+[ERROR]fail douyin_6843057578625273099.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6843275177204256013.mp4 ./audio/douyin_6843275177204256013
+./videos/douyin_6843275177204256013.mp4
+[ERROR]fail douyin_6843275177204256013.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6843390911024565519.mp4 ./audio/douyin_6843390911024565519
+./videos/douyin_6843390911024565519.mp4
+[ERROR]fail douyin_6843390911024565519.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6843695846136106255.mp4 ./audio/douyin_6843695846136106255
+./videos/douyin_6843695846136106255.mp4
+[ERROR]fail douyin_6843695846136106255.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6844072655059062030.mp4 ./audio/douyin_6844072655059062030
+./videos/douyin_6844072655059062030.mp4
+./audio/douyin_6844072655059062030/a.wav
+MoviePy - Writing audio in ./audio/douyin_6844072655059062030/a.wav
+[ERROR]fail douyin_6844072655059062030.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6844306836745702656.mp4 ./audio/douyin_6844306836745702656
+./videos/douyin_6844306836745702656.mp4
+./audio/douyin_6844306836745702656/a.wav
+MoviePy - Writing audio in ./audio/douyin_6844306836745702656/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6844306836745702656.mp4 ./audio/douyin_6844306836745702656
+[ERROR]fail douyin_6844306836745702656.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6844390680626793742.mp4 ./audio/douyin_6844390680626793742
+./videos/douyin_6844390680626793742.mp4
+./audio/douyin_6844390680626793742/a.wav
+MoviePy - Writing audio in ./audio/douyin_6844390680626793742/a.wav
+[ERROR]fail douyin_6844390680626793742.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6844712724732120327.mp4 ./audio/douyin_6844712724732120327
+./videos/douyin_6844712724732120327.mp4
+[ERROR]fail douyin_6844712724732120327.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6844756518349360392.mp4 ./audio/douyin_6844756518349360392
+./videos/douyin_6844756518349360392.mp4
+[ERROR]fail douyin_6844756518349360392.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6844776403682987264.mp4 ./audio/douyin_6844776403682987264
+./videos/douyin_6844776403682987264.mp4
+[ERROR]fail douyin_6844776403682987264.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6844791137807420686.mp4 ./audio/douyin_6844791137807420686
+./videos/douyin_6844791137807420686.mp4
+[ERROR]fail douyin_6844791137807420686.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6845080072357989636.mp4 ./audio/douyin_6845080072357989636
+./videos/douyin_6845080072357989636.mp4
+[ERROR]fail douyin_6845080072357989636.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6845187354110528776.mp4 ./audio/douyin_6845187354110528776
+./videos/douyin_6845187354110528776.mp4
+[ERROR]fail douyin_6845187354110528776.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6845443361369820430.mp4 ./audio/douyin_6845443361369820430
+./videos/douyin_6845443361369820430.mp4
+[ERROR]fail douyin_6845443361369820430.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6845554752420318468.mp4 ./audio/douyin_6845554752420318468
+./videos/douyin_6845554752420318468.mp4
+[ERROR]fail douyin_6845554752420318468.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6845971406891568391.mp4 ./audio/douyin_6845971406891568391
+./videos/douyin_6845971406891568391.mp4
+./audio/douyin_6845971406891568391/a.wav
+MoviePy - Writing audio in ./audio/douyin_6845971406891568391/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6845971406891568391.mp4 ./audio/douyin_6845971406891568391
+[ERROR]fail douyin_6845971406891568391.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6846277571336752384.mp4 ./audio/douyin_6846277571336752384
+./videos/douyin_6846277571336752384.mp4
+./audio/douyin_6846277571336752384/a.wav
+MoviePy - Writing audio in ./audio/douyin_6846277571336752384/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6846277571336752384.mp4 ./audio/douyin_6846277571336752384
+[ERROR]fail douyin_6846277571336752384.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6846302822405803268.mp4 ./audio/douyin_6846302822405803268
+./videos/douyin_6846302822405803268.mp4
+[ERROR]fail douyin_6846302822405803268.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6846555826107337997.mp4 ./audio/douyin_6846555826107337997
+./videos/douyin_6846555826107337997.mp4
+[ERROR]fail douyin_6846555826107337997.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6847061751171714319.mp4 ./audio/douyin_6847061751171714319
+./videos/douyin_6847061751171714319.mp4
+[ERROR]fail douyin_6847061751171714319.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6847625785881218317.mp4 ./audio/douyin_6847625785881218317
+./videos/douyin_6847625785881218317.mp4
+[ERROR]fail douyin_6847625785881218317.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6848230767944813831.mp4 ./audio/douyin_6848230767944813831
+./videos/douyin_6848230767944813831.mp4
+[ERROR]fail douyin_6848230767944813831.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6848434489488624911.mp4 ./audio/douyin_6848434489488624911
+./videos/douyin_6848434489488624911.mp4
+[ERROR]fail douyin_6848434489488624911.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6848497961396079886.mp4 ./audio/douyin_6848497961396079886
+./videos/douyin_6848497961396079886.mp4
+[ERROR]fail douyin_6848497961396079886.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6848770518095531277.mp4 ./audio/douyin_6848770518095531277
+./videos/douyin_6848770518095531277.mp4
+[ERROR]fail douyin_6848770518095531277.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6848846476597071115.mp4 ./audio/douyin_6848846476597071115
+./videos/douyin_6848846476597071115.mp4
+[ERROR]fail douyin_6848846476597071115.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6848868667233471744.mp4 ./audio/douyin_6848868667233471744
+./videos/douyin_6848868667233471744.mp4
+[ERROR]fail douyin_6848868667233471744.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6848893667097316623.mp4 ./audio/douyin_6848893667097316623
+./videos/douyin_6848893667097316623.mp4
+[ERROR]fail douyin_6848893667097316623.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6848922685674704128.mp4 ./audio/douyin_6848922685674704128
+./videos/douyin_6848922685674704128.mp4
+[ERROR]fail douyin_6848922685674704128.mp4
+[video_work] working
+[enc_init] working
+[ERROR]fail douyin_6848960147729960207.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6849139091796282624.mp4 ./audio/douyin_6849139091796282624
+./videos/douyin_6849139091796282624.mp4
+[ERROR]fail douyin_6849139091796282624.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6849224773843701004.mp4 ./audio/douyin_6849224773843701004
+./videos/douyin_6849224773843701004.mp4
+[ERROR]fail douyin_6849224773843701004.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6849273789818113295.mp4 ./audio/douyin_6849273789818113295
+./videos/douyin_6849273789818113295.mp4
+[ERROR]fail douyin_6849273789818113295.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6849313247384915215.mp4 ./audio/douyin_6849313247384915215
+./videos/douyin_6849313247384915215.mp4
+[ERROR]fail douyin_6849313247384915215.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6849580996883451150.mp4 ./audio/douyin_6849580996883451150
+./videos/douyin_6849580996883451150.mp4
+[ERROR]fail douyin_6849580996883451150.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6849631989251788039.mp4 ./audio/douyin_6849631989251788039
+./videos/douyin_6849631989251788039.mp4
+[ERROR]fail douyin_6849631989251788039.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6849695034388892940.mp4 ./audio/douyin_6849695034388892940
+./videos/douyin_6849695034388892940.mp4
+[ERROR]fail douyin_6849695034388892940.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6849888470937193728.mp4 ./audio/douyin_6849888470937193728
+./videos/douyin_6849888470937193728.mp4
+[ERROR]fail douyin_6849888470937193728.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6850044532189351181.mp4 ./audio/douyin_6850044532189351181
+./videos/douyin_6850044532189351181.mp4
+[ERROR]fail douyin_6850044532189351181.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6850277640499186959.mp4 ./audio/douyin_6850277640499186959
+./videos/douyin_6850277640499186959.mp4
+[ERROR]fail douyin_6850277640499186959.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6851029739646373135.mp4 ./audio/douyin_6851029739646373135
+./videos/douyin_6851029739646373135.mp4
+./audio/douyin_6851029739646373135/a.wav
+MoviePy - Writing audio in ./audio/douyin_6851029739646373135/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6851029739646373135.mp4 ./audio/douyin_6851029739646373135
+[ERROR]fail douyin_6851029739646373135.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6851149328103394563.mp4 ./audio/douyin_6851149328103394563
+./videos/douyin_6851149328103394563.mp4
+./audio/douyin_6851149328103394563/a.wav
+MoviePy - Writing audio in ./audio/douyin_6851149328103394563/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6851149328103394563.mp4 ./audio/douyin_6851149328103394563
+[ERROR]fail douyin_6851149328103394563.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6851368542718283023.mp4 ./audio/douyin_6851368542718283023
+./videos/douyin_6851368542718283023.mp4
+[ERROR]fail douyin_6851368542718283023.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6851466996798868744.mp4 ./audio/douyin_6851466996798868744
+./videos/douyin_6851466996798868744.mp4
+[ERROR]fail douyin_6851466996798868744.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6851515766269889796.mp4 ./audio/douyin_6851515766269889796
+./videos/douyin_6851515766269889796.mp4
+[ERROR]fail douyin_6851515766269889796.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6851808452554099975.mp4 ./audio/douyin_6851808452554099975
+./videos/douyin_6851808452554099975.mp4
+[ERROR]fail douyin_6851808452554099975.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6851828536232267008.mp4 ./audio/douyin_6851828536232267008
+./videos/douyin_6851828536232267008.mp4
+[ERROR]fail douyin_6851828536232267008.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6851867018145090819.mp4 ./audio/douyin_6851867018145090819
+./videos/douyin_6851867018145090819.mp4
+[ERROR]fail douyin_6851867018145090819.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6852212985557978376.mp4 ./audio/douyin_6852212985557978376
+./videos/douyin_6852212985557978376.mp4
+[ERROR]fail douyin_6852212985557978376.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6852319073007586560.mp4 ./audio/douyin_6852319073007586560
+./videos/douyin_6852319073007586560.mp4
+[ERROR]fail douyin_6852319073007586560.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6852482482604969223.mp4 ./audio/douyin_6852482482604969223
+./videos/douyin_6852482482604969223.mp4
+[ERROR]fail douyin_6852482482604969223.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6852539740328168717.mp4 ./audio/douyin_6852539740328168717
+./videos/douyin_6852539740328168717.mp4
+[ERROR]fail douyin_6852539740328168717.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6852586988072160512.mp4 ./audio/douyin_6852586988072160512
+./videos/douyin_6852586988072160512.mp4
+[ERROR]fail douyin_6852586988072160512.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6852677764353379597.mp4 ./audio/douyin_6852677764353379597
+./videos/douyin_6852677764353379597.mp4
+[ERROR]fail douyin_6852677764353379597.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6852945157218766091.mp4 ./audio/douyin_6852945157218766091
+./videos/douyin_6852945157218766091.mp4
+[ERROR]fail douyin_6852945157218766091.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6852979877516283151.mp4 ./audio/douyin_6852979877516283151
+./videos/douyin_6852979877516283151.mp4
+[ERROR]fail douyin_6852979877516283151.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6853242304224922894.mp4 ./audio/douyin_6853242304224922894
+./videos/douyin_6853242304224922894.mp4
+[ERROR]fail douyin_6853242304224922894.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6853595702258420999.mp4 ./audio/douyin_6853595702258420999
+./videos/douyin_6853595702258420999.mp4
+[ERROR]fail douyin_6853595702258420999.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6853654661677796622.mp4 ./audio/douyin_6853654661677796622
+./videos/douyin_6853654661677796622.mp4
+[ERROR]fail douyin_6853654661677796622.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6853696307836488973.mp4 ./audio/douyin_6853696307836488973
+./videos/douyin_6853696307836488973.mp4
+[ERROR]fail douyin_6853696307836488973.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6853962519736798479.mp4 ./audio/douyin_6853962519736798479
+./videos/douyin_6853962519736798479.mp4
+[ERROR]fail douyin_6853962519736798479.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6853983235765046539.mp4 ./audio/douyin_6853983235765046539
+./videos/douyin_6853983235765046539.mp4
+[ERROR]fail douyin_6853983235765046539.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6854012967072075021.mp4 ./audio/douyin_6854012967072075021
+./videos/douyin_6854012967072075021.mp4
+[ERROR]fail douyin_6854012967072075021.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6854058194789010700.mp4 ./audio/douyin_6854058194789010700
+./videos/douyin_6854058194789010700.mp4
+[ERROR]fail douyin_6854058194789010700.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6854097139853757704.mp4 ./audio/douyin_6854097139853757704
+./videos/douyin_6854097139853757704.mp4
+[ERROR]fail douyin_6854097139853757704.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6854428993400098062.mp4 ./audio/douyin_6854428993400098062
+./videos/douyin_6854428993400098062.mp4
+[ERROR]fail douyin_6854428993400098062.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6854704649019198727.mp4 ./audio/douyin_6854704649019198727
+./videos/douyin_6854704649019198727.mp4
+./audio/douyin_6854704649019198727/a.wav
+MoviePy - Writing audio in ./audio/douyin_6854704649019198727/a.wav
+[ERROR]fail douyin_6854704649019198727.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6855096922303155471.mp4 ./audio/douyin_6855096922303155471
+./videos/douyin_6855096922303155471.mp4
+./audio/douyin_6855096922303155471/a.wav
+MoviePy - Writing audio in ./audio/douyin_6855096922303155471/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6855096922303155471.mp4 ./audio/douyin_6855096922303155471
+[ERROR]fail douyin_6855096922303155471.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6855571163804863744.mp4 ./audio/douyin_6855571163804863744
+./videos/douyin_6855571163804863744.mp4
+[ERROR]fail douyin_6855571163804863744.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6857064672776949003.mp4 ./audio/douyin_6857064672776949003
+./videos/douyin_6857064672776949003.mp4
+[ERROR]fail douyin_6857064672776949003.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6857313418328689935.mp4 ./audio/douyin_6857313418328689935
+./videos/douyin_6857313418328689935.mp4
+[ERROR]fail douyin_6857313418328689935.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6857423306220457230.mp4 ./audio/douyin_6857423306220457230
+./videos/douyin_6857423306220457230.mp4
+[ERROR]fail douyin_6857423306220457230.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6857772551565839620.mp4 ./audio/douyin_6857772551565839620
+./videos/douyin_6857772551565839620.mp4
+[ERROR]fail douyin_6857772551565839620.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6857772901957946637.mp4 ./audio/douyin_6857772901957946637
+./videos/douyin_6857772901957946637.mp4
+[ERROR]fail douyin_6857772901957946637.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6858462238185966860.mp4 ./audio/douyin_6858462238185966860
+./videos/douyin_6858462238185966860.mp4
+[ERROR]fail douyin_6858462238185966860.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6858629768552713486.mp4 ./audio/douyin_6858629768552713486
+./videos/douyin_6858629768552713486.mp4
+[ERROR]fail douyin_6858629768552713486.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6859606107627818254.mp4 ./audio/douyin_6859606107627818254
+./videos/douyin_6859606107627818254.mp4
+[ERROR]fail douyin_6859606107627818254.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6860371441007791368.mp4 ./audio/douyin_6860371441007791368
+./videos/douyin_6860371441007791368.mp4
+[ERROR]fail douyin_6860371441007791368.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6860669771843751180.mp4 ./audio/douyin_6860669771843751180
+./videos/douyin_6860669771843751180.mp4
+[ERROR]fail douyin_6860669771843751180.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6861177952336448772.mp4 ./audio/douyin_6861177952336448772
+./videos/douyin_6861177952336448772.mp4
+[ERROR]fail douyin_6861177952336448772.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6861760820834061579.mp4 ./audio/douyin_6861760820834061579
+./videos/douyin_6861760820834061579.mp4
+[ERROR]fail douyin_6861760820834061579.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6861857889590480128.mp4 ./audio/douyin_6861857889590480128
+./videos/douyin_6861857889590480128.mp4
+[ERROR]fail douyin_6861857889590480128.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6861932604002815247.mp4 ./audio/douyin_6861932604002815247
+./videos/douyin_6861932604002815247.mp4
+[ERROR]fail douyin_6861932604002815247.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6862161911828499726.mp4 ./audio/douyin_6862161911828499726
+./videos/douyin_6862161911828499726.mp4
+[ERROR]fail douyin_6862161911828499726.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6862207569679699207.mp4 ./audio/douyin_6862207569679699207
+./videos/douyin_6862207569679699207.mp4
+[ERROR]fail douyin_6862207569679699207.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6862496783692500228.mp4 ./audio/douyin_6862496783692500228
+./videos/douyin_6862496783692500228.mp4
+[ERROR]fail douyin_6862496783692500228.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6862892636479573256.mp4 ./audio/douyin_6862892636479573256
+./videos/douyin_6862892636479573256.mp4
+[ERROR]fail douyin_6862892636479573256.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6863203977656405256.mp4 ./audio/douyin_6863203977656405256
+./videos/douyin_6863203977656405256.mp4
+[ERROR]fail douyin_6863203977656405256.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6863350843568065796.mp4 ./audio/douyin_6863350843568065796
+./videos/douyin_6863350843568065796.mp4
+[ERROR]fail douyin_6863350843568065796.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6863378128375516420.mp4 ./audio/douyin_6863378128375516420
+./videos/douyin_6863378128375516420.mp4
+[ERROR]fail douyin_6863378128375516420.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6863746837585743111.mp4 ./audio/douyin_6863746837585743111
+./videos/douyin_6863746837585743111.mp4
+[ERROR]fail douyin_6863746837585743111.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6864306556071087367.mp4 ./audio/douyin_6864306556071087367
+./videos/douyin_6864306556071087367.mp4
+[ERROR]fail douyin_6864306556071087367.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6864464104908803336.mp4 ./audio/douyin_6864464104908803336
+./videos/douyin_6864464104908803336.mp4
+[ERROR]fail douyin_6864464104908803336.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6864536647506185486.mp4 ./audio/douyin_6864536647506185486
+./videos/douyin_6864536647506185486.mp4
+[ERROR]fail douyin_6864536647506185486.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6864830194549591300.mp4 ./audio/douyin_6864830194549591300
+./videos/douyin_6864830194549591300.mp4
+[ERROR]fail douyin_6864830194549591300.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6865153689397497101.mp4 ./audio/douyin_6865153689397497101
+./videos/douyin_6865153689397497101.mp4
+[ERROR]fail douyin_6865153689397497101.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6865245516364598543.mp4 ./audio/douyin_6865245516364598543
+./videos/douyin_6865245516364598543.mp4
+[ERROR]fail douyin_6865245516364598543.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6865979338509126912.mp4 ./audio/douyin_6865979338509126912
+./videos/douyin_6865979338509126912.mp4
+[ERROR]fail douyin_6865979338509126912.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6866295416246242574.mp4 ./audio/douyin_6866295416246242574
+./videos/douyin_6866295416246242574.mp4
+[ERROR]fail douyin_6866295416246242574.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6866360691012472067.mp4 ./audio/douyin_6866360691012472067
+./videos/douyin_6866360691012472067.mp4
+[ERROR]fail douyin_6866360691012472067.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6866707115373825288.mp4 ./audio/douyin_6866707115373825288
+./videos/douyin_6866707115373825288.mp4
+./audio/douyin_6866707115373825288/a.wav
+MoviePy - Writing audio in ./audio/douyin_6866707115373825288/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6866707115373825288.mp4 ./audio/douyin_6866707115373825288
+[ERROR]fail douyin_6866707115373825288.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6867119524294954248.mp4 ./audio/douyin_6867119524294954248
+./videos/douyin_6867119524294954248.mp4
+./audio/douyin_6867119524294954248/a.wav
+MoviePy - Writing audio in ./audio/douyin_6867119524294954248/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6867119524294954248.mp4 ./audio/douyin_6867119524294954248
+[ERROR]fail douyin_6867119524294954248.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6867424768560303373.mp4 ./audio/douyin_6867424768560303373
+./videos/douyin_6867424768560303373.mp4
+[ERROR]fail douyin_6867424768560303373.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6867842242145504524.mp4 ./audio/douyin_6867842242145504524
+./videos/douyin_6867842242145504524.mp4
+[ERROR]fail douyin_6867842242145504524.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6868192450385546504.mp4 ./audio/douyin_6868192450385546504
+./videos/douyin_6868192450385546504.mp4
+[ERROR]fail douyin_6868192450385546504.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6868843771530841347.mp4 ./audio/douyin_6868843771530841347
+./videos/douyin_6868843771530841347.mp4
+[ERROR]fail douyin_6868843771530841347.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6869932962536819983.mp4 ./audio/douyin_6869932962536819983
+./videos/douyin_6869932962536819983.mp4
+[ERROR]fail douyin_6869932962536819983.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6870322803141283075.mp4 ./audio/douyin_6870322803141283075
+./videos/douyin_6870322803141283075.mp4
+[ERROR]fail douyin_6870322803141283075.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6870377974160444679.mp4 ./audio/douyin_6870377974160444679
+./videos/douyin_6870377974160444679.mp4
+[ERROR]fail douyin_6870377974160444679.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6871564257146785024.mp4 ./audio/douyin_6871564257146785024
+./videos/douyin_6871564257146785024.mp4
+[ERROR]fail douyin_6871564257146785024.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6871979527199821063.mp4 ./audio/douyin_6871979527199821063
+./videos/douyin_6871979527199821063.mp4
+[ERROR]fail douyin_6871979527199821063.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6872225881922800903.mp4 ./audio/douyin_6872225881922800903
+./videos/douyin_6872225881922800903.mp4
+[ERROR]fail douyin_6872225881922800903.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6872270966106459407.mp4 ./audio/douyin_6872270966106459407
+./videos/douyin_6872270966106459407.mp4
+[ERROR]fail douyin_6872270966106459407.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6872401891968453899.mp4 ./audio/douyin_6872401891968453899
+./videos/douyin_6872401891968453899.mp4
+[ERROR]fail douyin_6872401891968453899.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6872898807584066830.mp4 ./audio/douyin_6872898807584066830
+./videos/douyin_6872898807584066830.mp4
+[ERROR]fail douyin_6872898807584066830.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6872926439709134083.mp4 ./audio/douyin_6872926439709134083
+./videos/douyin_6872926439709134083.mp4
+[ERROR]fail douyin_6872926439709134083.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6873385637454630158.mp4 ./audio/douyin_6873385637454630158
+./videos/douyin_6873385637454630158.mp4
+[ERROR]fail douyin_6873385637454630158.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6873739404939136268.mp4 ./audio/douyin_6873739404939136268
+./videos/douyin_6873739404939136268.mp4
+[ERROR]fail douyin_6873739404939136268.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6873805237992393987.mp4 ./audio/douyin_6873805237992393987
+./videos/douyin_6873805237992393987.mp4
+[ERROR]fail douyin_6873805237992393987.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6874376605016280328.mp4 ./audio/douyin_6874376605016280328
+./videos/douyin_6874376605016280328.mp4
+[ERROR]fail douyin_6874376605016280328.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6875217471041735939.mp4 ./audio/douyin_6875217471041735939
+./videos/douyin_6875217471041735939.mp4
+[ERROR]fail douyin_6875217471041735939.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6875710565008821504.mp4 ./audio/douyin_6875710565008821504
+./videos/douyin_6875710565008821504.mp4
+[ERROR]fail douyin_6875710565008821504.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6876061152921603335.mp4 ./audio/douyin_6876061152921603335
+./videos/douyin_6876061152921603335.mp4
+[ERROR]fail douyin_6876061152921603335.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6876257542276730120.mp4 ./audio/douyin_6876257542276730120
+./videos/douyin_6876257542276730120.mp4
+[ERROR]fail douyin_6876257542276730120.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6877328562022583559.mp4 ./audio/douyin_6877328562022583559
+./videos/douyin_6877328562022583559.mp4
+[ERROR]fail douyin_6877328562022583559.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6877826756015852807.mp4 ./audio/douyin_6877826756015852807
+./videos/douyin_6877826756015852807.mp4
+[ERROR]fail douyin_6877826756015852807.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6878118954947087623.mp4 ./audio/douyin_6878118954947087623
+./videos/douyin_6878118954947087623.mp4
+[ERROR]fail douyin_6878118954947087623.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6879657338479922447.mp4 ./audio/douyin_6879657338479922447
+./videos/douyin_6879657338479922447.mp4
+[ERROR]fail douyin_6879657338479922447.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6879925463733652751.mp4 ./audio/douyin_6879925463733652751
+./videos/douyin_6879925463733652751.mp4
+[ERROR]fail douyin_6879925463733652751.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6881437296684518669.mp4 ./audio/douyin_6881437296684518669
+./videos/douyin_6881437296684518669.mp4
+[ERROR]fail douyin_6881437296684518669.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6881935035121847567.mp4 ./audio/douyin_6881935035121847567
+./videos/douyin_6881935035121847567.mp4
+[ERROR]fail douyin_6881935035121847567.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6882179308740234510.mp4 ./audio/douyin_6882179308740234510
+./videos/douyin_6882179308740234510.mp4
+[ERROR]fail douyin_6882179308740234510.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6882335565744721160.mp4 ./audio/douyin_6882335565744721160
+./videos/douyin_6882335565744721160.mp4
+[ERROR]fail douyin_6882335565744721160.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6882643461967777039.mp4 ./audio/douyin_6882643461967777039
+./videos/douyin_6882643461967777039.mp4
+[ERROR]fail douyin_6882643461967777039.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6882958721719323916.mp4 ./audio/douyin_6882958721719323916
+./videos/douyin_6882958721719323916.mp4
+[ERROR]fail douyin_6882958721719323916.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6882992354949598479.mp4 ./audio/douyin_6882992354949598479
+./videos/douyin_6882992354949598479.mp4
+[ERROR]fail douyin_6882992354949598479.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6883002774582234383.mp4 ./audio/douyin_6883002774582234383
+./videos/douyin_6883002774582234383.mp4
+[ERROR]fail douyin_6883002774582234383.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6883035443248516355.mp4 ./audio/douyin_6883035443248516355
+./videos/douyin_6883035443248516355.mp4
+[ERROR]fail douyin_6883035443248516355.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6883301375967546632.mp4 ./audio/douyin_6883301375967546632
+./videos/douyin_6883301375967546632.mp4
+[ERROR]fail douyin_6883301375967546632.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6883362164850101519.mp4 ./audio/douyin_6883362164850101519
+./videos/douyin_6883362164850101519.mp4
+[ERROR]fail douyin_6883362164850101519.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6883425147680804100.mp4 ./audio/douyin_6883425147680804100
+./videos/douyin_6883425147680804100.mp4
+[ERROR]fail douyin_6883425147680804100.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6883671782910463240.mp4 ./audio/douyin_6883671782910463240
+./videos/douyin_6883671782910463240.mp4
+[ERROR]fail douyin_6883671782910463240.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6883734332104510724.mp4 ./audio/douyin_6883734332104510724
+./videos/douyin_6883734332104510724.mp4
+[ERROR]fail douyin_6883734332104510724.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6884121331181292814.mp4 ./audio/douyin_6884121331181292814
+./videos/douyin_6884121331181292814.mp4
+[ERROR]fail douyin_6884121331181292814.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6884545191089360136.mp4 ./audio/douyin_6884545191089360136
+./videos/douyin_6884545191089360136.mp4
+[ERROR]fail douyin_6884545191089360136.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6884872001551404303.mp4 ./audio/douyin_6884872001551404303
+./videos/douyin_6884872001551404303.mp4
+[ERROR]fail douyin_6884872001551404303.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6885972986743033095.mp4 ./audio/douyin_6885972986743033095
+./videos/douyin_6885972986743033095.mp4
+[ERROR]fail douyin_6885972986743033095.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6886334348988124430.mp4 ./audio/douyin_6886334348988124430
+./videos/douyin_6886334348988124430.mp4
+[ERROR]fail douyin_6886334348988124430.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6886683690433383692.mp4 ./audio/douyin_6886683690433383692
+./videos/douyin_6886683690433383692.mp4
+[ERROR]fail douyin_6886683690433383692.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6887904016806841600.mp4 ./audio/douyin_6887904016806841600
+./videos/douyin_6887904016806841600.mp4
+[ERROR]fail douyin_6887904016806841600.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6888185150035758348.mp4 ./audio/douyin_6888185150035758348
+./videos/douyin_6888185150035758348.mp4
+[ERROR]fail douyin_6888185150035758348.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6888561950561684747.mp4 ./audio/douyin_6888561950561684747
+./videos/douyin_6888561950561684747.mp4
+[ERROR]fail douyin_6888561950561684747.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6889070478149913871.mp4 ./audio/douyin_6889070478149913871
+./videos/douyin_6889070478149913871.mp4
+[ERROR]fail douyin_6889070478149913871.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6889365879549676813.mp4 ./audio/douyin_6889365879549676813
+./videos/douyin_6889365879549676813.mp4
+[ERROR]fail douyin_6889365879549676813.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6889960078342982912.mp4 ./audio/douyin_6889960078342982912
+./videos/douyin_6889960078342982912.mp4
+[ERROR]fail douyin_6889960078342982912.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6890103435056647424.mp4 ./audio/douyin_6890103435056647424
+./videos/douyin_6890103435056647424.mp4
+[ERROR]fail douyin_6890103435056647424.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6890360409749064968.mp4 ./audio/douyin_6890360409749064968
+./videos/douyin_6890360409749064968.mp4
+[ERROR]fail douyin_6890360409749064968.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6890417090755333380.mp4 ./audio/douyin_6890417090755333380
+./videos/douyin_6890417090755333380.mp4
+[ERROR]fail douyin_6890417090755333380.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6890427735512976654.mp4 ./audio/douyin_6890427735512976654
+./videos/douyin_6890427735512976654.mp4
+[ERROR]fail douyin_6890427735512976654.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6890529616985869571.mp4 ./audio/douyin_6890529616985869571
+./videos/douyin_6890529616985869571.mp4
+[ERROR]fail douyin_6890529616985869571.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6890730826267413773.mp4 ./audio/douyin_6890730826267413773
+./videos/douyin_6890730826267413773.mp4
+./audio/douyin_6890730826267413773/a.wav
+MoviePy - Writing audio in ./audio/douyin_6890730826267413773/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6890730826267413773.mp4 ./audio/douyin_6890730826267413773
+[ERROR]fail douyin_6890730826267413773.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6890878727895502093.mp4 ./audio/douyin_6890878727895502093
+./videos/douyin_6890878727895502093.mp4
+./audio/douyin_6890878727895502093/a.wav
+MoviePy - Writing audio in ./audio/douyin_6890878727895502093/a.wav
+[ERROR]fail douyin_6890878727895502093.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6891203642074926350.mp4 ./audio/douyin_6891203642074926350
+./videos/douyin_6891203642074926350.mp4
+[ERROR]fail douyin_6891203642074926350.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6891294237036416263.mp4 ./audio/douyin_6891294237036416263
+./videos/douyin_6891294237036416263.mp4
+[ERROR]fail douyin_6891294237036416263.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6891570229969816845.mp4 ./audio/douyin_6891570229969816845
+./videos/douyin_6891570229969816845.mp4
+[ERROR]fail douyin_6891570229969816845.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6892230838822440195.mp4 ./audio/douyin_6892230838822440195
+./videos/douyin_6892230838822440195.mp4
+[ERROR]fail douyin_6892230838822440195.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6893269628953382144.mp4 ./audio/douyin_6893269628953382144
+./videos/douyin_6893269628953382144.mp4
+[ERROR]fail douyin_6893269628953382144.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6893477906882874639.mp4 ./audio/douyin_6893477906882874639
+./videos/douyin_6893477906882874639.mp4
+[ERROR]fail douyin_6893477906882874639.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6894080336926346510.mp4 ./audio/douyin_6894080336926346510
+./videos/douyin_6894080336926346510.mp4
+[ERROR]fail douyin_6894080336926346510.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6894407646229695748.mp4 ./audio/douyin_6894407646229695748
+./videos/douyin_6894407646229695748.mp4
+[ERROR]fail douyin_6894407646229695748.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6894435692538088707.mp4 ./audio/douyin_6894435692538088707
+./videos/douyin_6894435692538088707.mp4
+[ERROR]fail douyin_6894435692538088707.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6894612649531723022.mp4 ./audio/douyin_6894612649531723022
+./videos/douyin_6894612649531723022.mp4
+[ERROR]fail douyin_6894612649531723022.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6895645115327548683.mp4 ./audio/douyin_6895645115327548683
+./videos/douyin_6895645115327548683.mp4
+[ERROR]fail douyin_6895645115327548683.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6896293361062251780.mp4 ./audio/douyin_6896293361062251780
+./videos/douyin_6896293361062251780.mp4
+[ERROR]fail douyin_6896293361062251780.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6896344156965309708.mp4 ./audio/douyin_6896344156965309708
+./videos/douyin_6896344156965309708.mp4
+[ERROR]fail douyin_6896344156965309708.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6896644309940997389.mp4 ./audio/douyin_6896644309940997389
+./videos/douyin_6896644309940997389.mp4
+[ERROR]fail douyin_6896644309940997389.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6896757248098307328.mp4 ./audio/douyin_6896757248098307328
+./videos/douyin_6896757248098307328.mp4
+[ERROR]fail douyin_6896757248098307328.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6896844454724930831.mp4 ./audio/douyin_6896844454724930831
+./videos/douyin_6896844454724930831.mp4
+[ERROR]fail douyin_6896844454724930831.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6897084425113242893.mp4 ./audio/douyin_6897084425113242893
+./videos/douyin_6897084425113242893.mp4
+[ERROR]fail douyin_6897084425113242893.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6897953983655136527.mp4 ./audio/douyin_6897953983655136527
+./videos/douyin_6897953983655136527.mp4
+[ERROR]fail douyin_6897953983655136527.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6898304240838561035.mp4 ./audio/douyin_6898304240838561035
+./videos/douyin_6898304240838561035.mp4
+[ERROR]fail douyin_6898304240838561035.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6899336054558575872.mp4 ./audio/douyin_6899336054558575872
+./videos/douyin_6899336054558575872.mp4
+[ERROR]fail douyin_6899336054558575872.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6900073008388459784.mp4 ./audio/douyin_6900073008388459784
+./videos/douyin_6900073008388459784.mp4
+[ERROR]fail douyin_6900073008388459784.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6901166862713801996.mp4 ./audio/douyin_6901166862713801996
+./videos/douyin_6901166862713801996.mp4
+[ERROR]fail douyin_6901166862713801996.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6901555943423692036.mp4 ./audio/douyin_6901555943423692036
+./videos/douyin_6901555943423692036.mp4
+[ERROR]fail douyin_6901555943423692036.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6902249775282834695.mp4 ./audio/douyin_6902249775282834695
+./videos/douyin_6902249775282834695.mp4
+[ERROR]fail douyin_6902249775282834695.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6902998763892182272.mp4 ./audio/douyin_6902998763892182272
+./videos/douyin_6902998763892182272.mp4
+[ERROR]fail douyin_6902998763892182272.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6903330126805699844.mp4 ./audio/douyin_6903330126805699844
+./videos/douyin_6903330126805699844.mp4
+[ERROR]fail douyin_6903330126805699844.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6903409421183995149.mp4 ./audio/douyin_6903409421183995149
+./videos/douyin_6903409421183995149.mp4
+[ERROR]fail douyin_6903409421183995149.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6903516292544744717.mp4 ./audio/douyin_6903516292544744717
+./videos/douyin_6903516292544744717.mp4
+[ERROR]fail douyin_6903516292544744717.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6904946721210617092.mp4 ./audio/douyin_6904946721210617092
+./videos/douyin_6904946721210617092.mp4
+[ERROR]fail douyin_6904946721210617092.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6905746694005099791.mp4 ./audio/douyin_6905746694005099791
+./videos/douyin_6905746694005099791.mp4
+[ERROR]fail douyin_6905746694005099791.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6906310378238561549.mp4 ./audio/douyin_6906310378238561549
+./videos/douyin_6906310378238561549.mp4
+[ERROR]fail douyin_6906310378238561549.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6907420193622985997.mp4 ./audio/douyin_6907420193622985997
+./videos/douyin_6907420193622985997.mp4
+[ERROR]fail douyin_6907420193622985997.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6908100104171883791.mp4 ./audio/douyin_6908100104171883791
+./videos/douyin_6908100104171883791.mp4
+[ERROR]fail douyin_6908100104171883791.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6908608281665654020.mp4 ./audio/douyin_6908608281665654020
+./videos/douyin_6908608281665654020.mp4
+[ERROR]fail douyin_6908608281665654020.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6909484183282781444.mp4 ./audio/douyin_6909484183282781444
+./videos/douyin_6909484183282781444.mp4
+[ERROR]fail douyin_6909484183282781444.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6910821547510926592.mp4 ./audio/douyin_6910821547510926592
+./videos/douyin_6910821547510926592.mp4
+[ERROR]fail douyin_6910821547510926592.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6911949842147233032.mp4 ./audio/douyin_6911949842147233032
+./videos/douyin_6911949842147233032.mp4
+[ERROR]fail douyin_6911949842147233032.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6912372801232047372.mp4 ./audio/douyin_6912372801232047372
+./videos/douyin_6912372801232047372.mp4
+[ERROR]fail douyin_6912372801232047372.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6914540564822166799.mp4 ./audio/douyin_6914540564822166799
+./videos/douyin_6914540564822166799.mp4
+[ERROR]fail douyin_6914540564822166799.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6914595715704458511.mp4 ./audio/douyin_6914595715704458511
+./videos/douyin_6914595715704458511.mp4
+[ERROR]fail douyin_6914595715704458511.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6915542827426467086.mp4 ./audio/douyin_6915542827426467086
+./videos/douyin_6915542827426467086.mp4
+[ERROR]fail douyin_6915542827426467086.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6915955190193540352.mp4 ./audio/douyin_6915955190193540352
+./videos/douyin_6915955190193540352.mp4
+[ERROR]fail douyin_6915955190193540352.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6916020252455259407.mp4 ./audio/douyin_6916020252455259407
+./videos/douyin_6916020252455259407.mp4
+[ERROR]fail douyin_6916020252455259407.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6916048903624330500.mp4 ./audio/douyin_6916048903624330500
+./videos/douyin_6916048903624330500.mp4
+[ERROR]fail douyin_6916048903624330500.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6916344845338414349.mp4 ./audio/douyin_6916344845338414349
+./videos/douyin_6916344845338414349.mp4
+[ERROR]fail douyin_6916344845338414349.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6916518350227098894.mp4 ./audio/douyin_6916518350227098894
+./videos/douyin_6916518350227098894.mp4
+[ERROR]fail douyin_6916518350227098894.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6916697301520043264.mp4 ./audio/douyin_6916697301520043264
+./videos/douyin_6916697301520043264.mp4
+[ERROR]fail douyin_6916697301520043264.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6916754377227111688.mp4 ./audio/douyin_6916754377227111688
+./videos/douyin_6916754377227111688.mp4
+[ERROR]fail douyin_6916754377227111688.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6917513241031642380.mp4 ./audio/douyin_6917513241031642380
+./videos/douyin_6917513241031642380.mp4
+[ERROR]fail douyin_6917513241031642380.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6917519769889541391.mp4 ./audio/douyin_6917519769889541391
+./videos/douyin_6917519769889541391.mp4
+[ERROR]fail douyin_6917519769889541391.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6917532912292252943.mp4 ./audio/douyin_6917532912292252943
+./videos/douyin_6917532912292252943.mp4
+[ERROR]fail douyin_6917532912292252943.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6919042388237241608.mp4 ./audio/douyin_6919042388237241608
+./videos/douyin_6919042388237241608.mp4
+[ERROR]fail douyin_6919042388237241608.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6919108069280484616.mp4 ./audio/douyin_6919108069280484616
+./videos/douyin_6919108069280484616.mp4
+[ERROR]fail douyin_6919108069280484616.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6919800791696002319.mp4 ./audio/douyin_6919800791696002319
+./videos/douyin_6919800791696002319.mp4
+[ERROR]fail douyin_6919800791696002319.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6920577560178937101.mp4 ./audio/douyin_6920577560178937101
+./videos/douyin_6920577560178937101.mp4
+[ERROR]fail douyin_6920577560178937101.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6920771371236609287.mp4 ./audio/douyin_6920771371236609287
+./videos/douyin_6920771371236609287.mp4
+[ERROR]fail douyin_6920771371236609287.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6920867079629360395.mp4 ./audio/douyin_6920867079629360395
+./videos/douyin_6920867079629360395.mp4
+[ERROR]fail douyin_6920867079629360395.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6921198227605802252.mp4 ./audio/douyin_6921198227605802252
+./videos/douyin_6921198227605802252.mp4
+[ERROR]fail douyin_6921198227605802252.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6921657713025961228.mp4 ./audio/douyin_6921657713025961228
+./videos/douyin_6921657713025961228.mp4
+[ERROR]fail douyin_6921657713025961228.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6921902933449772292.mp4 ./audio/douyin_6921902933449772292
+./videos/douyin_6921902933449772292.mp4
+[ERROR]fail douyin_6921902933449772292.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6921914834804116749.mp4 ./audio/douyin_6921914834804116749
+./videos/douyin_6921914834804116749.mp4
+[ERROR]fail douyin_6921914834804116749.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6922285670010473740.mp4 ./audio/douyin_6922285670010473740
+./videos/douyin_6922285670010473740.mp4
+[ERROR]fail douyin_6922285670010473740.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6922462128716729615.mp4 ./audio/douyin_6922462128716729615
+./videos/douyin_6922462128716729615.mp4
+[ERROR]fail douyin_6922462128716729615.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6922710442745941262.mp4 ./audio/douyin_6922710442745941262
+./videos/douyin_6922710442745941262.mp4
+[ERROR]fail douyin_6922710442745941262.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6922761154846592271.mp4 ./audio/douyin_6922761154846592271
+./videos/douyin_6922761154846592271.mp4
+[ERROR]fail douyin_6922761154846592271.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6923095665010543872.mp4 ./audio/douyin_6923095665010543872
+./videos/douyin_6923095665010543872.mp4
+[ERROR]fail douyin_6923095665010543872.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6923392226127121672.mp4 ./audio/douyin_6923392226127121672
+./videos/douyin_6923392226127121672.mp4
+[ERROR]fail douyin_6923392226127121672.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6923791489453575439.mp4 ./audio/douyin_6923791489453575439
+./videos/douyin_6923791489453575439.mp4
+[ERROR]fail douyin_6923791489453575439.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6923935118297959684.mp4 ./audio/douyin_6923935118297959684
+./videos/douyin_6923935118297959684.mp4
+[ERROR]fail douyin_6923935118297959684.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6924182159754267904.mp4 ./audio/douyin_6924182159754267904
+./videos/douyin_6924182159754267904.mp4
+[ERROR]fail douyin_6924182159754267904.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6924263691001154830.mp4 ./audio/douyin_6924263691001154830
+./videos/douyin_6924263691001154830.mp4
+./audio/douyin_6924263691001154830/a.wav
+MoviePy - Writing audio in ./audio/douyin_6924263691001154830/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6924263691001154830.mp4 ./audio/douyin_6924263691001154830
+[wav2text] working
+[wav_result] {'text': '这两天谣言有点多，拜拜嗯。', 'text_postprocessed': '这 两 天 谣 言 有 点 多 拜 拜 嗯', 'time_stamp': [[110, 210], [210, 370], [370, 610], [770, 950], [950, 1090], [1090, 1170], [1170, 1290], [1290, 2545], [4520, 4720], [4720, 4960], [7950, 8189]], 'sentences': [{'text': '这两天谣言有点多,', 'start': 110, 'end': 2545}, {'text': '拜拜嗯.', 'start': 2545, 'end': 8189}]}
+[OCR working] ocr at frame 0
+./frame/douyin_6924263691001154830/0.jpg
+[OCR done] ocr at frame 0
+[OCR working] ocr at frame 15
+./frame/douyin_6924263691001154830/15.jpg
+[OCR done] ocr at frame 15
+[OCR working] ocr at frame 30
+./frame/douyin_6924263691001154830/30.jpg
+[OCR done] ocr at frame 30
+[OCR working] ocr at frame 45
+./frame/douyin_6924263691001154830/45.jpg
+[OCR done] ocr at frame 45
+[OCR working] ocr at frame 60
+./frame/douyin_6924263691001154830/60.jpg
+[OCR done] ocr at frame 60
+[OCR working] ocr at frame 75
+./frame/douyin_6924263691001154830/75.jpg
+[OCR done] ocr at frame 75
+[OCR working] ocr at frame 90
+./frame/douyin_6924263691001154830/90.jpg
+[OCR done] ocr at frame 90
+[OCR working] ocr at frame 105
+./frame/douyin_6924263691001154830/105.jpg
+[OCR done] ocr at frame 105
+[OCR working] ocr at frame 120
+./frame/douyin_6924263691001154830/120.jpg
+[OCR done] ocr at frame 120
+[OCR working] ocr at frame 135
+./frame/douyin_6924263691001154830/135.jpg
+[OCR done] ocr at frame 135
+[OCR working] ocr at frame 150
+./frame/douyin_6924263691001154830/150.jpg
+[OCR done] ocr at frame 150
+[OCR working] ocr at frame 165
+[ERROR]fail douyin_6924263691001154830.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6924506575486930176.mp4 ./audio/douyin_6924506575486930176
+./videos/douyin_6924506575486930176.mp4
+[ERROR]fail douyin_6924506575486930176.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6924686470749965583.mp4 ./audio/douyin_6924686470749965583
+./videos/douyin_6924686470749965583.mp4
+[ERROR]fail douyin_6924686470749965583.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6924929045708705037.mp4 ./audio/douyin_6924929045708705037
+./videos/douyin_6924929045708705037.mp4
+[ERROR]fail douyin_6924929045708705037.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6925218688496962830.mp4 ./audio/douyin_6925218688496962830
+./videos/douyin_6925218688496962830.mp4
+./audio/douyin_6925218688496962830/a.wav
+MoviePy - Writing audio in ./audio/douyin_6925218688496962830/a.wav

@@ -1,0 +1,1 @@
+{"video_id": "douyin_6804780254742236419", "wav_result": {"text": "简简单，抖音。", "text_postprocessed": "简 简 单 抖 音", "time_stamp": [[3119, 3260], [3260, 3500], [3540, 3695], [6649, 6870], [6870, 7109]], "sentences": [{"text": "简简单,", "start": 3119, "end": 3695}, {"text": "抖音.", "start": 3695, "end": 7109}]}, "ocr_result": [], "fps": 30.0}

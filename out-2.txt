@@ -1,0 +1,146 @@
+start decoding!!!
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6571001202379590925.mp4 ./audio/douyin_6571001202379590925
+./videos/douyin_6571001202379590925.mp4
+./audio/douyin_6571001202379590925/a.wav
+MoviePy - Writing audio in ./audio/douyin_6571001202379590925/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6571001202379590925.mp4 ./audio/douyin_6571001202379590925
+[wav2text] working
+[wav_result] {'text': '我。', 'text_postprocessed': '我', 'time_stamp': [[5570, 5810]], 'sentences': [{'text': '我.', 'start': 5570, 'end': 5810}]}
+[OCR working] ocr at frame 0
+./frame/douyin_6571001202379590925/0.jpg
+[OCR done] ocr at frame 0
+[OCR working] ocr at frame 15
+./frame/douyin_6571001202379590925/15.jpg
+[OCR done] ocr at frame 15
+[OCR working] ocr at frame 30
+./frame/douyin_6571001202379590925/30.jpg
+continue ./frame/douyin_6571001202379590925/30.jpg 1
+continue ./frame/douyin_6571001202379590925/30.jpg 4
+[OCR done] ocr at frame 30
+[OCR working] ocr at frame 45
+./frame/douyin_6571001202379590925/45.jpg
+continue ./frame/douyin_6571001202379590925/45.jpg 0
+continue ./frame/douyin_6571001202379590925/45.jpg 1
+continue ./frame/douyin_6571001202379590925/45.jpg 2
+continue ./frame/douyin_6571001202379590925/45.jpg 3
+[OCR done] ocr at frame 45
+[OCR working] ocr at frame 60
+./frame/douyin_6571001202379590925/60.jpg
+continue ./frame/douyin_6571001202379590925/60.jpg 0
+continue ./frame/douyin_6571001202379590925/60.jpg 1
+continue ./frame/douyin_6571001202379590925/60.jpg 2
+continue ./frame/douyin_6571001202379590925/60.jpg 3
+[OCR done] ocr at frame 60
+[OCR working] ocr at frame 75
+./frame/douyin_6571001202379590925/75.jpg
+[OCR done] ocr at frame 75
+[ERROR]fail douyin_6571001202379590925.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6588057622690139396.mp4 ./audio/douyin_6588057622690139396
+./videos/douyin_6588057622690139396.mp4
+[ERROR]fail douyin_6588057622690139396.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6590972352731811075.mp4 ./audio/douyin_6590972352731811075
+./videos/douyin_6590972352731811075.mp4
+./audio/douyin_6590972352731811075/a.wav
+MoviePy - Writing audio in ./audio/douyin_6590972352731811075/a.wav
+MoviePy - Done.
+[extract frame] ./videos/douyin_6590972352731811075.mp4 ./audio/douyin_6590972352731811075
+[wav2text] working
+[ERROR]fail douyin_6590972352731811075.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6601309012942130446.mp4 ./audio/douyin_6601309012942130446
+./videos/douyin_6601309012942130446.mp4
+./audio/douyin_6601309012942130446/a.wav
+MoviePy - Writing audio in ./audio/douyin_6601309012942130446/a.wav
+[ERROR]fail douyin_6601309012942130446.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6601472765788687629.mp4 ./audio/douyin_6601472765788687629
+./videos/douyin_6601472765788687629.mp4
+[ERROR]fail douyin_6601472765788687629.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6601686537832762637.mp4 ./audio/douyin_6601686537832762637
+./videos/douyin_6601686537832762637.mp4
+[ERROR]fail douyin_6601686537832762637.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6601738553175051533.mp4 ./audio/douyin_6601738553175051533
+./videos/douyin_6601738553175051533.mp4
+[ERROR]fail douyin_6601738553175051533.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6601795495725632776.mp4 ./audio/douyin_6601795495725632776
+./videos/douyin_6601795495725632776.mp4
+[ERROR]fail douyin_6601795495725632776.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6602089727090756872.mp4 ./audio/douyin_6602089727090756872
+./videos/douyin_6602089727090756872.mp4
+[ERROR]fail douyin_6602089727090756872.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6603693731239431431.mp4 ./audio/douyin_6603693731239431431
+./videos/douyin_6603693731239431431.mp4
+[ERROR]fail douyin_6603693731239431431.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6609176747055254797.mp4 ./audio/douyin_6609176747055254797
+./videos/douyin_6609176747055254797.mp4
+[ERROR]fail douyin_6609176747055254797.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6612183406635650308.mp4 ./audio/douyin_6612183406635650308
+./videos/douyin_6612183406635650308.mp4
+[ERROR]fail douyin_6612183406635650308.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6615513758447979780.mp4 ./audio/douyin_6615513758447979780
+./videos/douyin_6615513758447979780.mp4
+[ERROR]fail douyin_6615513758447979780.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6618027963864583427.mp4 ./audio/douyin_6618027963864583427
+./videos/douyin_6618027963864583427.mp4
+[ERROR]fail douyin_6618027963864583427.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6628915429882465549.mp4 ./audio/douyin_6628915429882465549
+./videos/douyin_6628915429882465549.mp4
+[ERROR]fail douyin_6628915429882465549.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6632919871975853326.mp4 ./audio/douyin_6632919871975853326
+./videos/douyin_6632919871975853326.mp4
+[ERROR]fail douyin_6632919871975853326.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6639551308707663117.mp4 ./audio/douyin_6639551308707663117
+./videos/douyin_6639551308707663117.mp4
+[ERROR]fail douyin_6639551308707663117.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6641159939815378190.mp4 ./audio/douyin_6641159939815378190
+./videos/douyin_6641159939815378190.mp4
+[ERROR]fail douyin_6641159939815378190.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6645815668123897102.mp4 ./audio/douyin_6645815668123897102
+./videos/douyin_6645815668123897102.mp4
+[ERROR]fail douyin_6645815668123897102.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6650031854579698948.mp4 ./audio/douyin_6650031854579698948
+./videos/douyin_6650031854579698948.mp4
+[ERROR]fail douyin_6650031854579698948.mp4
+[video_work] working
+[enc_init] working
+[extract audio] ./videos/douyin_6652318431716691203.mp4 ./audio/douyin_6652318431716691203
+./videos/douyin_6652318431716691203.mp4
